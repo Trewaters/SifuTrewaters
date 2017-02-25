@@ -1,2 +1,2 @@
-*2/24/2017
-Good Morning
+- 2/24/2017, Good Morning
+- 2/25/2017, Good Morning. Going to meet Winston for :coffee:.
