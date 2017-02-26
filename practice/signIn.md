@@ -1,2 +1,3 @@
 - 2/24/2017, Good Morning
 - 2/25/2017, Good Morning. Going to meet Winston for :coffee:.
+- 2/26/2017, Afternoon. Working on final exam for MongoDB University! Oh boy this is a challenge!
