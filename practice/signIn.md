@@ -1,3 +1,4 @@
 - 2/24/2017, Good Morning
 - 2/25/2017, Good Morning. Going to meet Winston for :coffee:.
 - 2/26/2017, Afternoon. Working on final exam for MongoDB University! Oh boy this is a challenge!
+- 2/28/2017, Finished the MongoDB class! Woo Hoo! That was a bit of a challenge. Time was against me for the workload. Now I will pivot to another project. Time to put effort into shopping app. Tinkering all the time. :honeybee: -soulfire
