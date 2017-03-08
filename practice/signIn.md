@@ -5,3 +5,4 @@
 - 3/1/2017, I got an offer I couldn't refuse while working on the "Am-Fresh" app my wife and I thought of. Boy do I like to over extend myself! 
 - 3/2/2017, Tonight is an SFNode meetup. Should be fun.
 - 3/6/2017, Missed a couple of days of practice and that is disappointing. I am trying to do as many days as possible using the GitHub katas. Happy Birthday! Today I am the Hitchhiker's Guide to the Galaxy answer to everything. Feels pretty good.
+- 3/8/2017, Going sailing today. Open up the NativeScript page to see what it has to offer.
