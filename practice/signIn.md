@@ -6,3 +6,4 @@
 - 3/2/2017, Tonight is an SFNode meetup. Should be fun.
 - 3/6/2017, Missed a couple of days of practice and that is disappointing. I am trying to do as many days as possible using the GitHub katas. Happy Birthday! Today I am the Hitchhiker's Guide to the Galaxy answer to everything. Feels pretty good.
 - 3/8/2017, Going sailing today. Open up the NativeScript page to see what it has to offer.
+- 3/9/2017, Having issues installing NativeScript on my Windows 8.1 machine. pain in the arse. Most of it is installed but some last part is broken :confounded: !
