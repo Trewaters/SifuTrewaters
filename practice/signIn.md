@@ -7,3 +7,4 @@
 - 3/6/2017, Missed a couple of days of practice and that is disappointing. I am trying to do as many days as possible using the GitHub katas. Happy Birthday! Today I am the Hitchhiker's Guide to the Galaxy answer to everything. Feels pretty good.
 - 3/8/2017, Going sailing today. Open up the NativeScript page to see what it has to offer.
 - 3/9/2017, Having issues installing NativeScript on my Windows 8.1 machine. pain in the arse. Most of it is installed but some last part is broken :confounded: !
+- 3/10/2017, Got to love coding for this answer. I got into NativeScript when there was a breaking change from Android SDK. Android moved things around so that I was doomed to fail. Luckily there was I got an answer to my dilema from Stack Overflow! :sunglasses: :computer: :heart:
