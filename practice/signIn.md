@@ -9,3 +9,4 @@
 - 3/9/2017, Having issues installing NativeScript on my Windows 8.1 machine. pain in the arse. Most of it is installed but some last part is broken :confounded: !
 - 3/10/2017, Got to love coding for this answer. I got into NativeScript when there was a breaking change from Android SDK. Android moved things around so that I was doomed to fail. Luckily there was I got an answer to my dilema from Stack Overflow! :sunglasses: :computer: :heart:
 - 3/12/2017, Missed a day due to friends visiting. Taking a break today. We will see what happens. :hatching_chick::hatching_chick::hatching_chick::hatching_chick:
+- 3/15/2017, Last night I watched a show called "Abstract" on Netflix and I really enjoyed it. He commented that artist should draw everyday. I agree with that. Programming is the same way for me. I need to program everyday to keep myself sharp. I also need to work harder if I find there are parts of my skill set lacking! :bowtie: :muscle: :checkered_flag:
