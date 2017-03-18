@@ -11,3 +11,4 @@
 - 3/12/2017, Missed a day due to friends visiting. Taking a break today. We will see what happens. :hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 - 3/15/2017, Last night I watched a show called "Abstract" on Netflix and I really enjoyed it. He commented that artist should draw everyday. I agree with that. Programming is the same way for me. I need to program everyday to keep myself sharp. I also need to work harder if I find there are parts of my skill set lacking! :bowtie: :muscle: :checkered_flag:
 - 3/16/2017, Tired today and woke up late. Trying hard to make my daily github update! Yay! I have almost committed! 
+3/17/2017, Working hard to do my daily kata. Position 2 Github Kata.
