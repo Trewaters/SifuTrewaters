@@ -17,3 +17,4 @@
 - 3/21/2017, Forgot to do an update yesterday. Seems like I will be sarting over again. Teaching myself a lesson. When I do 30 days in a row I will be in a good place! :muscle:
 - 3/22/2017, Went to MongoDB meetup last night in San Francisco. That was fun. I got to ask questions of some of the internal team. I also met a nice guy from Aspen. Time to try some new meetups. I have been going to the same topics for awhile and they aren't as interesting as they once were. I feel like it is more marketing. I want more inspiration.
 - 3/23/2017, Almost forgot to update today. I was inspired to add my notes for a politcal app on github. I figure I have 4 years of inspiration under the new administration. 
+- 3/24/2017, It's Friday!!!! :star:
