@@ -20,3 +20,4 @@
 - 3/24/2017, It's Friday!!!! :star:
 - 3/25/2017, I'm at the monthly BJD (Berkeley Javascript Dojo) meetup. I am on time and no one is here. 3 people said they would attend during the 4 hour block. We will see how that goes. Consistency is important for me as the host. Even if they don't show I will.
 - 3/27/2017, Daily practice! I forgot to push my updates from home computer OR I forgot to do my daily katas. I thought I was on it doing my daily katas but I can't be sure. Now I am at work and there is no way to know until I get home. But this will give me a chance to see what happens when someone updates a repo and then someone else tries to update the same repo later. Hopefully Git merges the old updates with mine... not sure till I try it :smiley:
+- 3/28/2017, At Working trying not to forget my Kata for the day. Last night I did some github work on multiple repos and that felt good. Looks like the practice is paying off. [ Day 2 of 30 ] :high_brightness:
