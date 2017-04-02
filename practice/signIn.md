@@ -25,4 +25,4 @@
 - 3/30/2017, Geting my kata in early today. I don't want to start over. Hopefully today I will get some time to work on the BJD gitHub some more. I really want to get the bones of that up. I realized that I made a choice that is a problem. I created my notes as doc files which is not accessible to everyone. I need to convert those files into markdown. I shouldn't maintain both because that is too much work. [ Day 4 of 30 ]
 - 3/31/2017, Worked on the GitHub repo. I pushed a bunch of files and empty folders to the repo. It is easier for me to work on it if I sync to the repo instead of just having it on my laptop. So much fun!! Tomorrow I need to start on Am-Fresh. [ Day 5 of 30 ] :stuck_out_tongue: :fire:
 - 4/1/2017, Getting some work done on BJD github. I also made some updates to Arlen's GitIt repo. Almost forgot to make my kata post today. [ Day 6 of 30 ]
-- 4/2/2017, Gotta get myself on target today. It is early and I don't have my thoughts organized yet. [ Day 6 of 30 ]
+- 4/2/2017, Gotta get myself on target today. It is early and I don't have my thoughts organized yet. [ Day 7 of 30 ]
