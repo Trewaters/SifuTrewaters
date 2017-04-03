@@ -26,3 +26,4 @@
 - 3/31/2017, Worked on the GitHub repo. I pushed a bunch of files and empty folders to the repo. It is easier for me to work on it if I sync to the repo instead of just having it on my laptop. So much fun!! Tomorrow I need to start on Am-Fresh. [ Day 5 of 30 ] :stuck_out_tongue: :fire:
 - 4/1/2017, Getting some work done on BJD github. I also made some updates to Arlen's GitIt repo. Almost forgot to make my kata post today. [ Day 6 of 30 ]
 - 4/2/2017, Gotta get myself on target today. It is early and I don't have my thoughts organized yet. [ Day 7 of 30 ]
+- 4/3/2017, Moving right along. Kia! [ Day 8 of 30 ]
