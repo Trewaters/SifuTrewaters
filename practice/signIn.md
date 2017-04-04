@@ -27,3 +27,4 @@
 - 4/1/2017, Getting some work done on BJD github. I also made some updates to Arlen's GitIt repo. Almost forgot to make my kata post today. [ Day 6 of 30 ]
 - 4/2/2017, Gotta get myself on target today. It is early and I don't have my thoughts organized yet. [ Day 7 of 30 ]
 - 4/3/2017, Moving right along. Kia! [ Day 8 of 30 ]
+- 4/4/2017, Practice makes perfect! I have been consumed lately with trying to understand cryptocurrency even more. There are gaps in my understanding and I am trying to fill them in so I know what the heck it is and how it all works together. It is a fun journey. I traded a little and that helped. Next on the list is to build a miner. The node and miner connection is kind of alluding me. Also pools are another thing I hear about but don't know the details of. So much to learn and understand. [ Day 9 of 30 ] :star2: :dizzy:
