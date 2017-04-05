@@ -28,3 +28,4 @@
 - 4/2/2017, Gotta get myself on target today. It is early and I don't have my thoughts organized yet. [ Day 7 of 30 ]
 - 4/3/2017, Moving right along. Kia! [ Day 8 of 30 ]
 - 4/4/2017, Practice makes perfect! I have been consumed lately with trying to understand cryptocurrency even more. There are gaps in my understanding and I am trying to fill them in so I know what the heck it is and how it all works together. It is a fun journey. I traded a little and that helped. Next on the list is to build a miner. The node and miner connection is kind of alluding me. Also pools are another thing I hear about but don't know the details of. So much to learn and understand. [ Day 9 of 30 ] :star2: :dizzy:
+- 4/5/2017, works on Am-Fresh wireframes yesterday. Tonight is a Waffle.js meetup. Interested to see it because I have heard good things in the past. [ Day 10 of 30 ]
