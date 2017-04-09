@@ -1,3 +1,4 @@
+- 4/8/2017 Quit commit to keep on track. Hah!
 - 4/7/2017 I am so upset that I missed a day and have to start all over with my GitHub katas. I need to keep at this for a solid 30 days or all my work was for nothing. I will start making my updates to the top of the stack instead of scrolling to the bottom. This is getting long and I am sick of scrolling to the bottom, or jumping to the bottom. Well here I go! [ Day 1 of 30 ]
 
 ---
