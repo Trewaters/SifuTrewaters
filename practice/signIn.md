@@ -1,3 +1,4 @@
+- 4/11/2017 not missing a day [ Day 5 of 30 ]
 - 4/10/2017 Checking in! :smiley: [ Day 4 of 30 ]
 - 4/9/2017 Another day, staying on track! :muscle: [ Day 3 of 30 ]
 - 4/8/2017 Quit commit to keep on track. Hah! [ Day 2 of 30 ]
