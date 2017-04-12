@@ -1,3 +1,4 @@
+- 4/12/2017 Making an update before it gets too late. This weekend I will be talking Angular 2 with the Dojo. Last night I helped friend work on websockets. I would like to learn more about websockets. Definitely a popular technology. [ Day 6 of 30 ]
 - 4/11/2017 not missing a day [ Day 5 of 30 ]
 - 4/10/2017 Checking in! :smiley: [ Day 4 of 30 ]
 - 4/9/2017 Another day, staying on track! :muscle: [ Day 3 of 30 ]
