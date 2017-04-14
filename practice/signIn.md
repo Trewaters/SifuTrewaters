@@ -1,3 +1,4 @@
+- 4/13/2017 Almost forgot to update! That was close. I really want to make the 30 days in a row of updates. [ Day 7 of 30 ]
 - 4/12/2017 Making an update before it gets too late. This weekend I will be talking Angular 2 with the Dojo. Last night I helped friend work on websockets. I would like to learn more about websockets. Definitely a popular technology. [ Day 6 of 30 ]
 - 4/11/2017 not missing a day [ Day 5 of 30 ]
 - 4/10/2017 Checking in! :smiley: [ Day 4 of 30 ]
