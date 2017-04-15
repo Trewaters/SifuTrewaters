@@ -1,4 +1,4 @@
-- 4/15/2017 No one showed up to the BJD meetup. I only had myself and one other person RSVP yes. But that person didn't show up and I decided to do some work on the GitHub repo while they weren't here. Make the most out of my time.
+- 4/15/2017 No one showed up to the BJD meetup. I only had myself and one other person RSVP yes. But that person didn't show up and I decided to do some work on the GitHub repo while they weren't here. Make the most out of my time. [ Day 9 of 30 ]
 - 4/14/2017 So tired today. Too many days in a row of staying up late. [ Day 8 of 30 ]
 - 4/13/2017 Almost forgot to update! That was close. I really want to make the 30 days in a row of updates. [ Day 7 of 30 ]
 - 4/12/2017 Making an update before it gets too late. This weekend I will be talking Angular 2 with the Dojo. Last night I helped friend work on websockets. I would like to learn more about websockets. Definitely a popular technology. [ Day 6 of 30 ]
