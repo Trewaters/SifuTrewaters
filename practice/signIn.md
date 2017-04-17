@@ -1,3 +1,4 @@
+- 4/17/2017 I am feeling rather crushed. I don't think I did an update on Sunday. I am at work so I can't check. Hopefully I have a commit on my home computer waiting to be pushed. That would still count for the challenge. I am posting anyway. I will check my home machine and hope there is a gift waiting for me! [ Day ? of 30  ]
 - 4/15/2017 No one showed up to the BJD meetup. I only had myself and one other person RSVP yes. But that person didn't show up and I decided to do some work on the GitHub repo while they weren't here. Make the most out of my time. [ Day 9 of 30 ]
 - 4/14/2017 So tired today. Too many days in a row of staying up late. [ Day 8 of 30 ]
 - 4/13/2017 Almost forgot to update! That was close. I really want to make the 30 days in a row of updates. [ Day 7 of 30 ]
