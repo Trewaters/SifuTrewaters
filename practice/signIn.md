@@ -1,3 +1,4 @@
+- 4/19/2016 Working on a different way to present the Dojo.
 - 4/18/2017 I am starting over. The weekends are my enemy! [ Day 2 of 30 ] :bow: :japanese_ogre: :new_moon:
 - 4/17/2017 I am feeling rather crushed. I don't think I did an update on Sunday. I am at work so I can't check. Hopefully I have a commit on my home computer waiting to be pushed. That would still count for the challenge. I am posting anyway. I will check my home machine and hope there is a gift waiting for me! [ Day 1 of 30  ]
 
