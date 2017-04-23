@@ -1,4 +1,5 @@
-- 4/22/2016 Lost my focus and didn't update every day. [ Day 1 of 30 ]
+- 4/23/2017 Tomorrow this needs to be the first thing I do in the morning. [ Day 2 of 30 ]
+- 4/22/2017 Lost my focus and didn't update every day. [ Day 1 of 30 ]
 
 ---
 Failed to make my daily committment. Accept the failure and try again. 
