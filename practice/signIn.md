@@ -1,3 +1,4 @@
+- 4/24/2017 Doing this update in the mornings is the best approach for success [ Day 3 of 30 ]
 - 4/23/2017 Tomorrow this needs to be the first thing I do in the morning. [ Day 2 of 30 ]
 - 4/22/2017 Lost my focus and didn't update every day. [ Day 1 of 30 ]
 
