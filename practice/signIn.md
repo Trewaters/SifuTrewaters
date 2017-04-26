@@ -1,4 +1,5 @@
-- 4/25/2017 Woke up late but making my update anyway!
+- 4/26/2017 I didn't do this in the morning and it has been a struggle to remember to do it the rest of the day. Shouldn't be that hard to do. Now it is done and off my plate. I agree that morning is the best time for me to do this before the madness of the day washes it all away. I am working on a few javascript exercises to keep me fresh and frosty with my code. The github kata is working so well that it is past time to create more katas!! [ Day 5 of 30 ]. 
+- 4/25/2017 Woke up late but making my update anyway! [ Day 4 of 30]
 - 4/24/2017 Doing this update in the mornings is the best approach for success [ Day 3 of 30 ]
 - 4/23/2017 Tomorrow this needs to be the first thing I do in the morning. [ Day 2 of 30 ]
 - 4/22/2017 Lost my focus and didn't update every day. [ Day 1 of 30 ]
