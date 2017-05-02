@@ -1,5 +1,7 @@
-- 4/29/2017 Kia!
-- 4/28/2017 Sun phase is almost over. Pieces sun is hard sometimes. Today is Friday! Woot Woot. Time to get my butt into gear. I have been looking into `stdout` and `stderr`. Looks pretty interesting.
+- 5/2/2017 I don't know if I made a post on 4/30/2017, but I am 99% sure I updated the document and didn't do a `git push`. I will find out next time I update from home. I don't want to psych myself out thinking about it. I have felt so strongly about making this the THIRTY (30) days I make the challenge! :muscle: [ Day 11 of 30 ]
+- 5/1/2017 I am making another post today. Reading about cryptocurrencies a lot. Daily routine helps sharpen the craft. Getting excited about more javascript katas. [ Day 10 of 30 ]
+- 4/29/2017 Kia! [ Day 8 of 30 ]
+- 4/28/2017 Sun phase is almost over. Pieces sun is hard sometimes. Today is Friday! Woot Woot. Time to get my butt into gear. I have been looking into `stdout` and `stderr`. Looks pretty interesting. [ Day 7 of 30 ]
 - 4/27/2017 Again didn't do this update first thing. I almost forgot about it. That was close and familiar. This is how it seems to happen a lot. I get wrapped up in the every day or whatever and then I forget to do my updates. Ridiculous. Gotta get my head in the game if I plan on making this work... [ Day 6 of 30 ]
 - 4/26/2017 I didn't do this in the morning and it has been a struggle to remember to do it the rest of the day. Shouldn't be that hard to do. Now it is done and off my plate. I agree that morning is the best time for me to do this before the madness of the day washes it all away. I am working on a few javascript exercises to keep me fresh and frosty with my code. The github kata is working so well that it is past time to create more katas!! [ Day 5 of 30 ]. 
 - 4/25/2017 Woke up late but making my update anyway! [ Day 4 of 30]
