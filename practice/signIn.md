@@ -1,3 +1,4 @@
+- 5/7/2017 Beautiful morning in the East Bay! Making my post before I forget. [ Day 7 of 30 ]
 - 5/6/2017 Boom! Making it happen. Got to work on a small emergency job. [ Day 6 of 30 ]
 - 5/5/2017 Almost missed this. Happy Cinco De Mayo! I woke up later than I really wanted to. I am making this post after work. Thank goodness it is getting done but sleeping in isn't an option. If I want more sleep I need to go to be earlier. At least for the next 30 days. [ Day 5 of 30 ]
 - 5/4/2017 Yesterday I got a call from an old client for help. Looking at the application I created for them I forgot how much I have accomplished. That was years ago and it still works great for them. You need to remind yourself sometimes of your accomplishments. They feel I can move the earth and sky. I feel like I am not as good as I want to be. Too funny :laughing: [ Day 4 of 30 ]
