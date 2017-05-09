@@ -1,3 +1,7 @@
+
+---
+Well I missed another day. I can make a week at a time but I can't seem to complete 30 days in a row. There is too much shit going on to make this happen. Or as I should rephrase it I obviously haven't committed enough to this to make it happen. I am not sure where to go now. I am so sick of restarting. It is so hard to commit and complete this task. Maybe I need to do some soul searching and put my energy into something more achievable. This was so simple I thought I could do it no problem Ha That was not the case. I have a full time job, 2 adult students (living at home), and a wife. I feel really pulled all over the place. I want to just sit and code. I am happiest when I am doing "good" code, but I don't want to sacrifice my family time. I want to be able to listen to my daughter tell me about her day. I don't want to tell her to wait while I spend another 1 hour programming. Argh. This is hard. Maybe when the dragon spawn move out of the house I will have a better chance at doing this. Maybe I will be able to complete the challenge... We shall see.
+---
 - 5/7/2017 Beautiful morning in the East Bay! Making my post before I forget. [ Day 7 of 30 ]
 - 5/6/2017 Boom! Making it happen. Got to work on a small emergency job. [ Day 6 of 30 ]
 - 5/5/2017 Almost missed this. Happy Cinco De Mayo! I woke up later than I really wanted to. I am making this post after work. Thank goodness it is getting done but sleeping in isn't an option. If I want more sleep I need to go to be earlier. At least for the next 30 days. [ Day 5 of 30 ]
