@@ -1,3 +1,5 @@
+11/4/2017 Missed days. Do the math. I let my lack of planning take over and derail me. I need to take control and plan some of this. Coffee and a GitHub post will be the new routine. I drink coffee every day. While I wait for the french press with Philz in it I can push a post. [ Day 1 of 30 ]
+---
 11/1/2017 Waiting for [WaffleJS](https://wafflejs.com/). I have some things to do at home before I can head out to SF. Happy I didn't miss a day of posting yet. [ Day 2 of 30 ]
 10/31/2017 "Trick or Treat!". It is Halloween and I am back. Trying the 30 day challenge again. My daughter is at college. My wife and I are empty nesters. Time to do something more with my time. I don't have a coding project figured out yet. I have lots of ideas but I need to code on something. Cryptocurrency/Blockchain has really grabbed my attention this year. Keep an eye on my repos. Anything I do will find it's way there. Tomorrow I am going to [WaffleJS](https://wafflejs.com/) meetup in SF. I like this meetup because it is a social meetup. Nice people. Open minded. Don't bring your laptop. [ Day 1 of 30 ]
 ---
