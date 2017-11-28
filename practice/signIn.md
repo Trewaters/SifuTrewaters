@@ -1,4 +1,5 @@
-- 11/27/2017 Woke up to my alarm at the new time. I always start off strong. Let's see what happens after 13 days or so. Will the changes I made be enough. Today is Monday of a long week. I will be working overtime while my co-workers are in training. [ Day 3 of 30 ]
+- 11/28/2017 Tuesday post. Bitcoin hit $10,000 per coin. Wow. I bought at $1,500 per coin. Amazing. This week Big Bang Theory will have an episode featuring Bitcoin. That shows how mainstream this is becoming. [ Day 4 of 30 ]
+- 11/27/2017 Woke up to my alarm at the new time. I always start off strong. Let's see what happens after 13 days or so. Will the changes I made be enough. Today is Monday of a long week. I will be working overtime while my co-workers are in training. [ Day 3 of 30]
 - 11/26/2017 Long day. Finishing the day with a post for my White Belt. Today I dropped my daughter off at school. I love her and it is great seeing her fulfill her dreams. I wish I had started the day with a post. But I am happy that I posted today and didn't miss my it. [ Day 2 of 30 ]
 - 11/25/2017 Today is our BJD meetup. I am excited. There are 11 people signed up. By the laws of meetup averages that means 3+ will be there. I will handout some of the first BJD stickers. [ Day 1 of 30 ]
 ---
