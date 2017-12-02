@@ -1,4 +1,5 @@
-- 12/1/2017 Friday post. Chugging along.
+- 12/2/2017 Saturday post. Feeling energetic. Let's see what coding happens today. I have errands to do before I can focusing on coding. Let's hope I get things done. [ Day 8 of 30 ]
+- 12/1/2017 Friday post. Chugging along. [ Day 7 of 30 ]
 - 11/30/2017 Thursday post. I really need to code something. I am doing other things well but I don't have a project in front of me. Maybe I will start with some tutorials while I work up to a project. [ Day 6 of 30 ]
 - 11/29/2017 Wednesday post. Thinking about why I like BJD. Coding with others is why I like it. I would have joined another group if I could have found one doing this at a time I could do. In order to work hard on something I needed to know my "why". My "Why" is that I love coding and sharing that with other programmers... Just posted the next BJD meetup. [ Day 5 of 30 ]
 - 11/28/2017 Tuesday post. Bitcoin hit $10,000 per coin. Wow. I bought at $1,500 per coin. Amazing. This week Big Bang Theory will have an episode featuring Bitcoin. That shows how mainstream this is becoming. [ Day 4 of 30 ]
