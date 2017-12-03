@@ -1,3 +1,4 @@
+- 12/3/2017 Sunday post. Still not working on a prject yet. Lots of areas I am interested in but not making the time to work on anything. Feels hard to balance life with working on code. [ Day 9 of 30 ]
 - 12/2/2017 Saturday post. Feeling energetic. Let's see what coding happens today. I have errands to do before I can focusing on coding. Let's hope I get things done. [ Day 8 of 30 ]
 - 12/1/2017 Friday post. Chugging along. [ Day 7 of 30 ]
 - 11/30/2017 Thursday post. I really need to code something. I am doing other things well but I don't have a project in front of me. Maybe I will start with some tutorials while I work up to a project. [ Day 6 of 30 ]
