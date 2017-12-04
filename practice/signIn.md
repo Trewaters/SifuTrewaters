@@ -1,3 +1,4 @@
+- 12/4/2017 Monday post. Whistle while you work. Getting my post in. So nervous I won't complete this challange. [ Day 10 of 30 ]
 - 12/3/2017 Sunday post. Still not working on a prject yet. Lots of areas I am interested in but not making the time to work on anything. Feels hard to balance life with working on code. [ Day 9 of 30 ]
 - 12/2/2017 Saturday post. Feeling energetic. Let's see what coding happens today. I have errands to do before I can focusing on coding. Let's hope I get things done. [ Day 8 of 30 ]
 - 12/1/2017 Friday post. Chugging along. [ Day 7 of 30 ]
