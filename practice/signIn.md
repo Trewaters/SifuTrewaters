@@ -1,4 +1,4 @@
-- 12/8/2017 Friday post. 
+- 12/8/2017 Friday post. [ Day 14 of 30 ]
 - 12/7/2017 Thursday post. Last night was great. I met some cool people at WaffleJS. I want to add more details to this post but I have run out of time. Met Valerian and Feross of NodeUp. [ Day 13 of 30 ]
 - 12/6/2017 Wednesday post. Making sure I do my GitHub challenge updates everyday. Don't want to restart this again. [ Day 12 of 30 ]
 - 12/5/2017 Tuesday post. Tomorrow is [WaffleJS](https://wafflejs.com/) in San Francisco. I haven't bought my ticket yet but I do plan to go. Looking into ".md" file extensions for visual studio code. Of course visual studio code has a [built in markdown viewer](https://code.visualstudio.com/docs/languages/markdown). That is awesome! VS Code is such a great editor! They show some ways to modify the way the viewer displays the markdown also, [Markdown Extension API](https://code.visualstudio.com/docs/extensionAPI/api-markdown) [ Day 11 of 30 ]
