@@ -1,3 +1,4 @@
+- 12/9/2017 Saturday post. I was thinking about this challenge the other day. When I started this in the beginning of the year I was coding daily. Now I don't code daily. This white belt kata is the bare minimum I can do to keep my developer muscles from wasting away. I plan to change that soon. I need to code. I feel the burn of a project growing in me. [ Day 15 of 30 ]
 - 12/8/2017 Friday post. [ Day 14 of 30 ]
 - 12/7/2017 Thursday post. Last night was great. I met some cool people at WaffleJS. I want to add more details to this post but I have run out of time. Met Valerian and Feross of NodeUp. [ Day 13 of 30 ]
 - 12/6/2017 Wednesday post. Making sure I do my GitHub challenge updates everyday. Don't want to restart this again. [ Day 12 of 30 ]
