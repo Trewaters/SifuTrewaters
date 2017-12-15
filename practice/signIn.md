@@ -1,3 +1,4 @@
+- 12/15/2017 Friday post. Tomorrow is the Berkeley Javascript Dojo meetup. [ Day 21 of 30 ]
 - 12/14/2017 Thursday post. [ Day 20 of 30 ]
 - 12/13/2017 Wednesday post. Slow to move this morning. finding others ot ask for mentions or repost since I waited to post the next meetup. [ Day 19 of 30 ]
 - 12/12/2017 Tuesday post. Need to post the event happening Saturday online so others can sign up. My promotion channels are not really set up yet so I am flailing a bit. Doing things very last minute. I am finding Hootesuite a bit more useful than Buffer at the moment. Time will tell which works better for me. But my post have been made. [ Day 18 of 30 ]
