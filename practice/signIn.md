@@ -1,3 +1,4 @@
+- 12/16/2017 Saturday post. Today is our meetup. I was doing some research on ReThinkDB and found that it is no longer in business. They closed the doors in October 2016. The code is open source so it is still around but there haven't been any updates to the GitHub in a year. [RethinkDB GitHub Repo](https://github.com/rethinkdb/rethinkdb) found here. I created 2 philosphies for BJD. These are things I have known since the beginning but this is the first time that I have written them down. [ Day 22 of 30 ]
 - 12/15/2017 Friday post. Tomorrow is the Berkeley Javascript Dojo meetup. [ Day 21 of 30 ]
 - 12/14/2017 Thursday post. [ Day 20 of 30 ]
 - 12/13/2017 Wednesday post. Slow to move this morning. finding others ot ask for mentions or repost since I waited to post the next meetup. [ Day 19 of 30 ]
