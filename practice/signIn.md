@@ -1,4 +1,4 @@
-- 12/17/2017 Sunday post. Yesterday was a great day. Found out I could change my default git editor to Visual Studio Code by using `git config --global core.editor "code --wait"`.
+- 12/17/2017 Sunday post. Yesterday was a great day. Found out I could change my default git editor to Visual Studio Code by using `git config --global core.editor "code --wait"`. [ Day 23 of 30 ]
 - 12/16/2017 Saturday post. Today is our meetup. I was doing some research on ReThinkDB and found that it is no longer in business. They closed the doors in October 2016. The code is open source so it is still around but there haven't been any updates to the GitHub in a year. [RethinkDB GitHub Repo](https://github.com/rethinkdb/rethinkdb) found here. I created 2 philosphies for BJD. These are things I have known since the beginning but this is the first time that I have written them down. [ Day 22 of 30 ]
 - 12/15/2017 Friday post. Tomorrow is the Berkeley Javascript Dojo meetup. [ Day 21 of 30 ]
 - 12/14/2017 Thursday post. [ Day 20 of 30 ]
