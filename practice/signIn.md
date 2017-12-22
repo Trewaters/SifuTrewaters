@@ -1,3 +1,4 @@
+- 12/22/2017 Friday post. Gotta work on the blog post. Time goes fast. [ Day 28 of 30 ]
 - 12/21/2017 Thursday post. I wish there was more time in my morning to work. I got a slow start and won't be able to write as much as I would like to. [ Day 27 of 30 ]
 - 12/20/2017 Wednesday post. Gettnig distracted looking at pictures. So many memories. I have so many things distracting me this morning. [ Day 26 of 30 ]
 - 12/19/2017 Tuesday post. I woke and didn't realize what day it was when my alarm went off. It took a few seconds to realize it was a work day. I think this happened because I was sleeping so peacefully. Sleep felt awesome. I need to write on this new blog but I am getting so distracted. I would rather work on my Russian language learning. That is how I can tell I must put my nose to the grindstone! [ Day 25 of 30 ]
