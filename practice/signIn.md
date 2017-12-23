@@ -1,4 +1,4 @@
-- 12/23/2017 Saturday post. Yay it is the holiday! I am enjoying having my daughter home for the holidays. I thought I was going to miss my github post becuase I was too busy with the holidays.
+- 12/23/2017 Saturday post. Yay it is the holiday! I am enjoying having my daughter home for the holidays. I thought I was going to miss my github post becuase I was too busy with the holidays. [ Day 29 of 30 ]
 - 12/22/2017 Friday post. Gotta work on the blog post. Time goes fast. [ Day 28 of 30 ]
 - 12/21/2017 Thursday post. I wish there was more time in my morning to work. I got a slow start and won't be able to write as much as I would like to. [ Day 27 of 30 ]
 - 12/20/2017 Wednesday post. Gettnig distracted looking at pictures. So many memories. I have so many things distracting me this morning. [ Day 26 of 30 ]
