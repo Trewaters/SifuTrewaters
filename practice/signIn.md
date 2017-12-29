@@ -1,3 +1,4 @@
+- 12/28/2017 Thursday post. After last night I decided it is worth focusing on the MongoDB kata positions.
 - 12/27/2017 Working with BJD member on MongoDB. Boy am I rusty. Time to start messing around more.
 - 12/26/2017 Doing a quick post to keep up my streak. I realized I haven't posted today. I did some work on the BJD blog post. I also looked into different QR Codes. Facebook makes some sexy QR codes but they are exclusive to Facebook as far as I can tell. The universal QR Code right now is the ugly one with a few minor enhancements. I am happy the technology is getting some acceptance. It answers a huge use question. How to get complicated data to users. 
 - 12/25/2017 It's Xmas day. Hanging with the family.
