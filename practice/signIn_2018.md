@@ -1,0 +1,1 @@
+- 5/1/2018 Tuesday, Time to dust off some cob webs and do a GitHub challenge. Post on this GitHub for 30 days. Coincidentally this is starting on May 1st. That should make it easier to track.
