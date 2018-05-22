@@ -1,3 +1,4 @@
+- 5/22/2018 Tuesday, Another day another chance to excel. [ Day 2 of 30 ]
 - 5/21/2018 Monday, I have been coding and waking up early but I let this detail slip. I know it is not good to abandon this exercise. Time for me to start over and complete the challenge before I end it. Things are starting to pop for me. Once I decided to change things the universe accepted it and provided. [ Day 1 of 30 ]
 ---
 ### Starting over
