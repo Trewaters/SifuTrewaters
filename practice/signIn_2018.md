@@ -1,3 +1,4 @@
+- 5/28/2018 Monday, It's a holiday. I slept in and it felt nice. Watched Solo movie! It was good but not the best star wars that I have seen. The falcon was not a disappointment. [ Day 8 of 30 ]
 - 5/27/2018 Sunday, Getting started today on the right foot! [ Day 7 of 30 ]
 - 5/26/2018 Saturday, Slow start to the day. I woke up early but I have been done other things instead of updating this page and completing my challenge. I must watch out for this behavior on the weekend. While I do my coffee I need to be also thinking of this. Pair up the two in my mind. This weekend I plan to finsh the book I am reading. I have to put in some real hours of the next few days to accomplish this. [ Day 6 of 30 ]         
 - 5/25/2018 Friday, The Hans Solo story is out and I am jazzed! I can't wait to see it in theaters. Going into a long holiday this weekend. Summer solstice is happening in a month. So many things to be happy about. [ Day 5 of 30 ]
