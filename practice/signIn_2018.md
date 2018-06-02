@@ -1,3 +1,4 @@
+- 6/2/2018 Saturday, Using my weekend morning to keep up with my coding practice. Everyday is a chance to do that much more. [ Day 13 of 30 ]
 - 6/1/2018 Friday, It is Friday and the 4 year anniversary of our being in Berkeley. The time is flying by so fast. [ Day 12 of 30 ]
 - 5/31/2018 Thursday, I went to OWASP meetup last night. That was fun. The speakers did a great job. The location was awesome. 1 Market St, which is right across from the ferry building. I enjoyed that a lot. I have been running the past couple of days. Hard to code and do these events too. [ Day 11 of 30 ]
 - 5/30/2018 Wednesday, Last night was a great WaffleJS. I was happy to see a greater minority presence than usual. I ran into Sasha, Jeremy, John, and Austin at the meetup. Someone new, someone old, someone blue, and someone fun. I took last night as an opportunity to work on my elevator pitch. Next week I will be using my ptich more since I plan on announcing my availability. [ Day 10 of 30]
