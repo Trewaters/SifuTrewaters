@@ -1,3 +1,4 @@
+- 6/3/2018 Sunday, Frustrated. Gotta wake up early to do all the things I feel I should be doing. Hard to sleep in and get my work finished for the day. [ Day 14 of 30 ]
 - 6/2/2018 Saturday, Using my weekend morning to keep up with my coding practice. Everyday is a chance to do that much more. [ Day 13 of 30 ]
 - 6/1/2018 Friday, It is Friday and the 4 year anniversary of our being in Berkeley. The time is flying by so fast. [ Day 12 of 30 ]
 - 5/31/2018 Thursday, I went to OWASP meetup last night. That was fun. The speakers did a great job. The location was awesome. 1 Market St, which is right across from the ferry building. I enjoyed that a lot. I have been running the past couple of days. Hard to code and do these events too. [ Day 11 of 30 ]
