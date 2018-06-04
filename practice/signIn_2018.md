@@ -1,3 +1,4 @@
+- 6/4/2018 Monday, Focus. This is only the beginning. [ Day 15 of 30 ]
 - 6/3/2018 Sunday, Frustrated. Gotta wake up early to do all the things I feel I should be doing. Hard to sleep in and get my work finished for the day. [ Day 14 of 30 ]
 - 6/2/2018 Saturday, Using my weekend morning to keep up with my coding practice. Everyday is a chance to do that much more. [ Day 13 of 30 ]
 - 6/1/2018 Friday, It is Friday and the 4 year anniversary of our being in Berkeley. The time is flying by so fast. [ Day 12 of 30 ]
