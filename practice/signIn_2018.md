@@ -1,3 +1,4 @@
+- 6/5/2018 Tuesday, I voted today! No more 45 or his minions who rule the USA. On another note I worked on a demonstration of the Electron exploit. It was nice to actually look into an exploit in detail and try to recreate it myself. Looking forward to mentioning this at SF Node. [ Day 16 of 30 ]
 - 6/4/2018 Monday, Focus. This is only the beginning. [ Day 15 of 30 ]
 - 6/3/2018 Sunday, Frustrated. Gotta wake up early to do all the things I feel I should be doing. Hard to sleep in and get my work finished for the day. [ Day 14 of 30 ]
 - 6/2/2018 Saturday, Using my weekend morning to keep up with my coding practice. Everyday is a chance to do that much more. [ Day 13 of 30 ]
@@ -7,15 +8,19 @@
 - 5/29/2018 Tuesday, Woke up later than normal. Since I didn't do my normal routine I missed my opportunity to upload to git. Now I am doing it later than normal but it is getting done. Tonight I am going to WaffleJS. It is on a different night than normal so I am happy I didn't miss it. This will be a chance for me to refine my elevator pitch. [ Day 9 of 30 ]
 - 5/28/2018 Monday, It's a holiday. I slept in and it felt nice. Watched Solo movie! It was good but not the best star wars that I have seen. The falcon was not a disappointment. [ Day 8 of 30 ]
 - 5/27/2018 Sunday, Getting started today on the right foot! [ Day 7 of 30 ]
-- 5/26/2018 Saturday, Slow start to the day. I woke up early but I have been done other things instead of updating this page and completing my challenge. I must watch out for this behavior on the weekend. While I do my coffee I need to be also thinking of this. Pair up the two in my mind. This weekend I plan to finsh the book I am reading. I have to put in some real hours of the next few days to accomplish this. [ Day 6 of 30 ]         
+- 5/26/2018 Saturday, Slow start to the day. I woke up early but I have been done other things instead of updating this page and completing my challenge. I must watch out for this behavior on the weekend. While I do my coffee I need to be also thinking of this. Pair up the two in my mind. This weekend I plan to finsh the book I am reading. I have to put in some real hours of the next few days to accomplish this. [ Day 6 of 30 ]
 - 5/25/2018 Friday, The Hans Solo story is out and I am jazzed! I can't wait to see it in theaters. Going into a long holiday this weekend. Summer solstice is happening in a month. So many things to be happy about. [ Day 5 of 30 ]
 - 5/24/2018 Thursday, I found a typo in yesterday's post. I put the wrong day. Oops :blush: Today I am excited that I doing so well on this new schedule. Waking up earlier so I can do work in the morning. On another topic anyone going to see the Han Solo Story? I am excited for it but I will be waiting until the lines calm down. This is Memorial Day weekend so I expect the theatres will be packed. [ Day 4 of 30 ]
 - 5/23/2018 Wednesday, Last night I went to Hella Yoga in Berkeley and had a hard butty yoga workout. Morgan the instructor mixed cross fit and yoga. It was unnatural, but today I feel great. I also started working on my Russian language learning again too. Today looking to apply for a job from LinkedIn. [ Day 3 of 30 ]
 - 5/22/2018 Tuesday, Another day another chance to excel. [ Day 2 of 30 ]
 - 5/21/2018 Monday, I have been coding and waking up early but I let this detail slip. I know it is not good to abandon this exercise. Time for me to start over and complete the challenge before I end it. Things are starting to pop for me. Once I decided to change things the universe accepted it and provided. [ Day 1 of 30 ]
+
 ---
+
 ### Starting over
+
 ---
+
 - 5/4/2018 Friday, "May the 4th be with you!" Last nigth was awesome. I got to MC the SF Node meetup. It was so fun. I got so nervous I lost my appetite. I was on cloud 9 all night. The guys surprised me. I feel like this is the beginning of great things. Let's see.
 - 5/3/2018 Thursday, Preparing for success. Updating early. If I don't update this in the morning I have a tough time getting back to it. Tonight is SF Node May! My first time helping out.
 - 5/2/2018 Wednesday, updating in the evening. I almost missed my update. Bumpy start to the challenge but moving forward. I went to Waffle.JS tongith and had a great time. I met some people I know. I need to be less shy when I run into people. I didn't say as much as I wanted to.
