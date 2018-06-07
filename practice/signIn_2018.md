@@ -1,3 +1,4 @@
+- 6/7/2018 Thursday, Tonight is SF Node! Excited for another chance to work with everyone. Love my SF Node meetup. So much fun :) Plus I have a big reveal tonight. I am open to job offers now and I can tell the public. [ Day 17 of 30 ]
 - 6/6/2018 Wednesday, Getting to the end of my "JavaScript: Novice to Ninja, 2nd Edition" by Darren Jones. It is a good book. Doing a great job of covering the material. It makes sense and builds in a smart way. Looking forward to improving my BART scheduling app. [ Day 16 of 30 ]
 - 6/5/2018 Tuesday, I voted today! No more 45 or his minions who rule the USA. On another note I worked on a demonstration of the Electron exploit. It was nice to actually look into an exploit in detail and try to recreate it myself. Looking forward to mentioning this at SF Node. [ Day 16 of 30 ]
 - 6/4/2018 Monday, Focus. This is only the beginning. [ Day 15 of 30 ]
