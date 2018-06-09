@@ -1,3 +1,4 @@
+- 6/9/2018 Saturday, I can tell today will be busy one. [ Day 19 of 30 ]
 - 6/8/2018 Friday, Last night was a blast. I told everyone that I am looking for work and they should hire me. I am looking for Evangelist work and someone did approach me. That was awesome. This is the beginning. I have so many things that need to improve and work on but at least I stood on the mountain and shouted to the world. I AM READY! [ Day 18 of 30 ]
 - 6/7/2018 Thursday, Tonight is SF Node! Excited for another chance to work with everyone. Love my SF Node meetup. So much fun :) Plus I have a big reveal tonight. I am open to job offers now and I can tell the public. [ Day 17 of 30 ]
 - 6/6/2018 Wednesday, Getting to the end of my "JavaScript: Novice to Ninja, 2nd Edition" by Darren Jones. It is a good book. Doing a great job of covering the material. It makes sense and builds in a smart way. Looking forward to improving my BART scheduling app. [ Day 16 of 30 ]
