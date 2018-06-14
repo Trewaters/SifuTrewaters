@@ -1,3 +1,4 @@
+- 6/14/2018 Thursday, Started by crushing a bug. That is dramatic, but the first thing I had to do this morning was get the code working so I could move on. Armed with coffeee all things are possible. [ Day 23 of 30 ]
 - 6/13/2018 Wednesday, I talked with T from Origami about his project last night. I was so jazzed and inspired. I am excited for what the future has in store. [ Day 22 of 30 ]
 - 6/12/2018 Tuesday, I have 69 days until I launch into a new thing. Today is the warriors parade in Downtown Oakland. I am looking forward to the energy that will be in the area today. This is my 3rd parade. [ Day 21 of 30 ]
 - 6/11/2018 Monday, Time to start the week and get this show on the road. I am a little off my normal routine this morning. I had to sleep in tonight because I was up late. That always affects my morning routine. I am excited about all my days. Very excited about a new job. [ Day 20 of 30 ]
