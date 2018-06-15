@@ -1,3 +1,4 @@
+- 6/15/2018 Friday, My morning routine has been disrupted. I woke up really eraly to take my wife to the airport. Now I am trying to get a few moments in front of the computer before I have to get ready.[ Day 24 of 30 ]
 - 6/14/2018 Thursday, Started by crushing a bug. That is dramatic, but the first thing I had to do this morning was get the code working so I could move on. Armed with coffeee all things are possible. [ Day 23 of 30 ]
 - 6/13/2018 Wednesday, I talked with T from Origami about his project last night. I was so jazzed and inspired. I am excited for what the future has in store. [ Day 22 of 30 ]
 - 6/12/2018 Tuesday, I have 69 days until I launch into a new thing. Today is the warriors parade in Downtown Oakland. I am looking forward to the energy that will be in the area today. This is my 3rd parade. [ Day 21 of 30 ]
