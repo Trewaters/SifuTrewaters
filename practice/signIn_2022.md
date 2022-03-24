@@ -1,5 +1,20 @@
 # Sign In Daily 2022
 
+## Thursday, 2022-03-24 07:29:43
+
+Try to code every day. My issue is I am so busy where will I find the time to code everyday? First pick the foundation. For me the foundation is JS (full stack) and python with GraphQL to manage data. Now that I picked my foundation how do I build it and build with it?
+
+My solution is to start with doing some browser JS. While I am at work I will open the Google Chrome browser Developer Console and code live in there. I am limited what I can at work but I think it should be possible to code a little in-between calls.
+
+Finish my python tutorials and start using it on Tezos OSS projects so I can keep that skill strong.
+
+Not sure how to manage GraphQL yet. I will start with JS and figure out the rest as time passes. I don't have too, and I can't do it all in one day anyway!
+
+Much Love to my Fam!
+
+~"Just have fun doing it!" 
+-- Fodé
+
 ## Wednesday, 2022-03-23 07:28:58
 
 Yesterday I signed up for the Vanilla JS Academy by Chris Ferdinandi. Looking forward to reviewing some JS materials as I build my coding skills back up. I have been working a job for the past, almost, three years. I do SQL all day. Just simple queries. That is not enough for me. I stay because I need to make money but I want to work on something more fulfilling for me. This is all part of it.
