@@ -1,5 +1,12 @@
 # Sign In Daily 2022
 
+## Friday, 2022-03-25 07:56:14
+
+Today I am moving slow. See how far I get. Been working on the Rovi League design document. I believe you must plan before you build. That is what I am doing. I am planning this special metaverse NFT manager before I build it.
+
+~ "Have the courage to follow your heart and intuition. They somehow know what you truly want to become."
+-- Steve Jobs
+
 ## Thursday, 2022-03-24 07:29:43
 
 Try to code every day. My issue is I am so busy where will I find the time to code everyday? First pick the foundation. For me the foundation is JS (full stack) and python with GraphQL to manage data. Now that I picked my foundation how do I build it and build with it?
