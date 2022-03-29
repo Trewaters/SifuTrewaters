@@ -1,5 +1,14 @@
 # Sign In Daily 2022
 
+## Tuesday, 2022-03-29 08:48:42
+
+We drove from Flagstaff Arizona to Santa Fe New Mexico over the weekend. I am recording a podcast with my wife while we travel the southwest united states as digital nomads. We changed timezones and had a few things to do so I didn't get on for my logs. Next week I start Vanilla JS Academy with Chris. Looking forward to the refresher.
+
+My friend and collaborator Berkeleytrue setup the Netlify App for my dApp AC DAO (https://acdao-dev.netlify.app/). 
+
+~ My YouTube "Inspiration" playlist ( https://youtube.com/playlist?list=PLS23WdYhq3vW0SZTgcFVOA8ccV8n62NrD )
+~ This is my favorite inspirational video, ( https://youtu.be/9o6F_cRW5W0 ), "Live your dream & Master Life | Training Success Motivation" by Ryan Jones
+
 ## Friday, 2022-03-25 07:56:14
 
 Today I am moving slow. See how far I get. Been working on the Rovi League design document. I believe you must plan before you build. That is what I am doing. I am planning this special metaverse NFT manager before I build it.
