@@ -1,5 +1,14 @@
 # Sign In Daily 2022
 
+## Saturday, 2022-04-02 08:32:08
+
+Moving slow on things. JavaScript coding starts Monday the 4th and I am excited to dust off the cob webs. It is funny the gap being wanting to do a thing and actually doing that thing. For example I want to code more since two weeks ago but I am not honestly coding more. I did start using old tools and that is good, but not enough. This coding workshop will help me. I need something to work on and right now I don't have that project which is driving me. Again I have ideas for projects but none of those is driving me yet. The closest one driving me at the moment is a Rovi NFT Manager. I am pretty sure I posted my paper on it in github... Nope, I posted on Reddit (https://www.reddit.com/r/RoviAI/comments/tio37h/rovi_leagues_role/). 
+
+The Rovi.ai League idea gets me excited. This last week I started spending 15 minutes in the morning working on something Rovi related and that has been fun. This Rovi.ai league project will require me to code something that works in decentraland metaverse and connects to Ethereum. I don't know how to code Solidity yet but that will be part of it.
+
+~ You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction.
+--by George Lorimer
+
 ## Tuesday, 2022-03-29 08:48:42
 
 We drove from Flagstaff Arizona to Santa Fe New Mexico over the weekend. I am recording a podcast with my wife while we travel the southwest united states as digital nomads. We changed timezones and had a few things to do so I didn't get on for my logs. Next week I start Vanilla JS Academy with Chris. Looking forward to the refresher.
@@ -14,7 +23,7 @@ My friend and collaborator Berkeleytrue setup the Netlify App for my dApp AC DAO
 Today I am moving slow. See how far I get. Been working on the Rovi League design document. I believe you must plan before you build. That is what I am doing. I am planning this special metaverse NFT manager before I build it.
 
 ~ "Have the courage to follow your heart and intuition. They somehow know what you truly want to become."
--- Steve Jobs
+-- by Steve Jobs
 
 ## Thursday, 2022-03-24 07:29:43
 
@@ -29,7 +38,7 @@ Not sure how to manage GraphQL yet. I will start with JS and figure out the rest
 Much Love to my Fam!
 
 ~"Just have fun doing it!" 
--- Fodé
+-- by Fodé Diope
 
 ## Wednesday, 2022-03-23 07:28:58
 
@@ -37,7 +46,7 @@ Yesterday I signed up for the Vanilla JS Academy by Chris Ferdinandi. Looking fo
 
 ~ "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
 
--- Steve Jobs
+-- by Steve Jobs
 ## Tuesday, 2022-03-22 14:50:08
 
 Today posting in the afternoon on my second break from work. Each day I make an entry is a good day for me. That means that I am in the right state of mind to Manifest better employment for me! One day at a time.
