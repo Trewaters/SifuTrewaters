@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Monday, 2022-04-04 08:18:14
+
+Getting started today! Woo Hoo!
+
 ## Saturday, 2022-04-02 08:32:08
 
 Moving slow on things. JavaScript coding starts Monday the 4th and I am excited to dust off the cob webs. It is funny the gap being wanting to do a thing and actually doing that thing. For example I want to code more since two weeks ago but I am not honestly coding more. I did start using old tools and that is good, but not enough. This coding workshop will help me. I need something to work on and right now I don't have that project which is driving me. Again I have ideas for projects but none of those is driving me yet. The closest one driving me at the moment is a Rovi NFT Manager. I am pretty sure I posted my paper on it in github... Nope, I posted on Reddit (https://www.reddit.com/r/RoviAI/comments/tio37h/rovi_leagues_role/). 
