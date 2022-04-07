@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Thursday, 2022-04-07 07:41:21
+
+Good morning. I am working through the academy exercises. Nice refresher. Perfect pace for me and the time I have. Spending about 30 minutes a day on this material. Not enough to become awesome but enough to get the rust off. I want to be able to code my own solutions for other projects I have in mind like RoviAi NFT Manager.
+
 ## Wednesday, 2022-04-06 07:20:37
 
 Another good start to the day. Keep this up and things will be great!
