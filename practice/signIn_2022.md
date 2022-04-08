@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Friday, 2022-04-08 08:22:38
+
+Moving a little slow today but still moving forward.
+
 ## Thursday, 2022-04-07 07:41:21
 
 Good morning. I am working through the academy exercises. Nice refresher. Perfect pace for me and the time I have. Spending about 30 minutes a day on this material. Not enough to become awesome but enough to get the rust off. I want to be able to code my own solutions for other projects I have in mind like RoviAi NFT Manager.
