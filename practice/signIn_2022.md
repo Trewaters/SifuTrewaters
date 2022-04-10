@@ -1,5 +1,14 @@
 # Sign In Daily 2022
 
+## Sunday, 2022-04-10 09:52:26
+
+Not going to lie. I wanted to take the weekend off. I am not "hardcore". I understand computers and software. My goal here is to sharpen my skills not dull my enthusiasm for living by over working. My Vanilla JS workshop keeps going even on... Saturday. I checked and nothing for today (Sunday). He does believe in a day of rest. I would know if I read the information closely. Honestly I just skimmed because I figure I have taken his workshop before and it is manageable. I opted to learn the details later (which is now, lol).
+
+I wanted to address something that came to mind the other day. This log is my motivational and emotional software developers journal. I am not concerned with coding details here. I save that in the github repos or in the software comments. It would be too much for this developers diary (journal).
+
+~ If opportunity doesn't knock, build a door.
+-- Milton Berle
+
 ## Friday, 2022-04-08 08:22:38
 
 Moving a little slow today but still moving forward.
