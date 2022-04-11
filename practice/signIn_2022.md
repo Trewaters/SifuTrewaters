@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Monday, 2022-04-11 07:54:15
+
+Rested and ready to go. I believe it is good to start the week strong.
+
 ## Sunday, 2022-04-10 09:52:26
 
 Not going to lie. I wanted to take the weekend off. I am not "hardcore". I understand computers and software. My goal here is to sharpen my skills not dull my enthusiasm for living by over working. My Vanilla JS workshop keeps going even on... Saturday. I checked and nothing for today (Sunday). He does believe in a day of rest. I would know if I read the information closely. Honestly I just skimmed because I figure I have taken his workshop before and it is manageable. I opted to learn the details later (which is now, lol).
