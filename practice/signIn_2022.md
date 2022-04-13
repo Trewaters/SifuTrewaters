@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Wednesday, 2022-04-13 08:03:44
+
+No coding yesterday and not getting it in this morning. Need to do something to jump start my coding.
+
 ## Monday, 2022-04-11 07:54:15
 
 Rested and ready to go. I believe it is good to start the week strong.
