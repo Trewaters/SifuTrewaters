@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Thursday, 2022-04-14 07:14:01
+
+Yesterday I started working with a NFT Marketplace template for Polygon. Looking forward to working with Rovi NFT.
+
 ## Wednesday, 2022-04-13 08:03:44
 
 No coding yesterday and not getting it in this morning. Need to do something to jump start my coding.
