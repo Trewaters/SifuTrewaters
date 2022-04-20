@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Monday, 2022-04-20 07:04:00
+
+I am here.
+
 ## Tuesday, 2022-04-19 07:46:54
 
 Honestly not so happy that I am not coding the past couple days. Gotta get my but into gear. How can I improve this? Set a short time to focus on coding. I don't have a scheduled time now and that is making me put it off until there is no time left in my day. Since this is a priority I should treat it as such. I will code for 15 minutes everyday starting at 7am! I will do this through Friday and see how that works. Setting the alarm now.
