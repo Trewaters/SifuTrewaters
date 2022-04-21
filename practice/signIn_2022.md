@@ -1,8 +1,12 @@
 # Sign In Daily 2022
 
+## Thursday, 2022-04-21 08:23:52
+
+Every day is a challenge. As you can tell I missed a few days. Dealing with overwhelming emotions and low energy. I have been negative with myself. I am 47 years old. I have done almost everything in software and I am still doing dumb software tech support. It is hurting my soul. The goal is to turn this around. This diary/journal is part of my therapy. As long as I keep posting here there is a chance that things will turn around.
+
 ## Monday, 2022-04-20 07:04:00
 
-I am here.
+I am here... Worked on my JS practice. Still have the NFT Marketplace in the back of my mind. Once I feel more proficient with code I can work on the NFT project. I would love to start reading the Rovi NFTs and creating the community based on the NFT eco system. It is a grand project.
 
 ## Tuesday, 2022-04-19 07:46:54
 
