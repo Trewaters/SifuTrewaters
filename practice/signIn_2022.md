@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Saturday, 2022-04-23 08:33:01
+
+No coding this week. I will try to reset and see if we can turn this around. I still work in tech but I am trying to work on building my coding skills specifically so that isn't good enough for me.
+
 ## Thursday, 2022-04-21 08:23:52
 
 Every day is a challenge. As you can tell I missed a few days. Dealing with overwhelming emotions and low energy. I have been negative with myself. I am 47 years old. I have done almost everything in software and I am still doing dumb software tech support. It is hurting my soul. The goal is to turn this around. This diary/journal is part of my therapy. As long as I keep posting here there is a chance that things will turn around.
