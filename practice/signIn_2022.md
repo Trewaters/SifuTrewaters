@@ -1,5 +1,11 @@
 # Sign In Daily 2022
 
+## Monday, 2022-04-25 11:49:49
+
+Didn't start with my best foot forward today. I am not working on the JS Academy program like I want to. It comes down to the fact that I am not making the best of my time. I feel overwhelm when I have a moment to do anything. Life is hectic and I am not doing a great job of staying focused. After I miss my time doing any code then I feel bad. Seems like I should just code something to avoid that feeling.
+
+I could use a boost of confidence if you ever want to tweet at me. It would be nice. I do better in community.
+
 ## Sunday, 2022-04-24 08:07:21
 
 I'm up. Let's see if I get at 'em!
