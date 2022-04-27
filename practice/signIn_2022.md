@@ -1,5 +1,15 @@
 # Sign In Daily 2022
 
+## Wednesday, 2022-04-27 08:17:05
+
+Tuesday was a bust. I didn't do any coding yesterday. How does it feel to fail? Not great. What does failure look like? This is a small failure. I am disappointing myself. I am still employed. I have a job that pays the bills. This is my personal goal to improve my job skills. This failure feels big. I really don't like my work and want a change. I feel if I can improve my coding skills I could apply for better jobs. 
+
+The real test of any choice is would you make it again? Yes.
+
+I will continue to try and code more. Try to improve my work life by getting a different job. Today I pick myself up and try again. Try, try until you succeed. Even though I feel like shit now I am not going to stop trying to do better.
+
+With love for myself I will take another step towards my dream.
+
 ## Monday, 2022-04-25 11:49:49
 
 Didn't start with my best foot forward today. I am not working on the JS Academy program like I want to. It comes down to the fact that I am not making the best of my time. I feel overwhelm when I have a moment to do anything. Life is hectic and I am not doing a great job of staying focused. After I miss my time doing any code then I feel bad. Seems like I should just code something to avoid that feeling.
