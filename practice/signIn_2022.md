@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Thursday, 2022-04-28 08:31:38
+
+I turned yesterday around in the afternoon. I missed my morning window for coding so I will see what I can do on breaks. My goal is to get 15 minutes minimum to learn something new. I would like 30 minutes to an hour but that has been difficult lately. Mainly because I can't seem to prioritize that hour for myself. I am overwhelmed and under disciplined to make it happen now.
+
 ## Wednesday, 2022-04-27 08:17:05
 
 Tuesday was a bust. I didn't do any coding yesterday. How does it feel to fail? Not great. What does failure look like? This is a small failure. I am disappointing myself. I am still employed. I have a job that pays the bills. This is my personal goal to improve my job skills. This failure feels big. I really don't like my work and want a change. I feel if I can improve my coding skills I could apply for better jobs. 
