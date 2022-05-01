@@ -1,5 +1,9 @@
 # Sign In Daily 2022
 
+## Sunday, 2022-05-01 15:08:15
+
+No coding the past couple days. We have been busy travelling but that is not excuse. I didn't prioritize coding those days. That is on me.
+
 ## Thursday, 2022-04-28 08:31:38
 
 I turned yesterday around in the afternoon. I missed my morning window for coding so I will see what I can do on breaks. My goal is to get 15 minutes minimum to learn something new. I would like 30 minutes to an hour but that has been difficult lately. Mainly because I can't seem to prioritize that hour for myself. I am overwhelmed and under disciplined to make it happen now.
