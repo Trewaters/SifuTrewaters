@@ -1,5 +1,12 @@
 # Sign In Daily 2022
 
+## Friday, 2022-05-13 11:35:30
+
+It has been a busy couple weeks. Loving Durango but over worked. I didn't take time to code over that period.
+
+Tezos Signed Message: I am attesting that this GitHub handle trewaters is linked to the Tezos account tz1g8KZGVQZ7RrCBmjPwraYvX6XYaPHF3K1n for tzprofiles
+
+
 ## Sunday, 2022-05-01 15:08:15
 
 No coding the past couple days. We have been busy travelling but that is not excuse. I didn't prioritize coding those days. That is on me.
