@@ -1,5 +1,13 @@
 # Sign In Daily 2022
 
+## Monday, 2022-07-25 10:45:06
+
+Today is a good day for a restart. It is Monday. I have finished recording Hoptoit.fm which took a lot of time during the week. It was like having a part-time job. I enjoyed it but it was time I couldn't be working on my other projects. 
+
+I am in a career shift that started three years ago. I left BART my previous employer so I could move out of IT and into software engineering. Currently I work in high-level (tier 3) software support at AnywheRE (formerly Realogy as of 2022). This is a tech support role that answers users questions and makes backend database queries to fix issues that arise. This has served its purpose. The software is being sunset over the next couple years. It is time for me to move up or out of the organization.
+
+My real joy is learning about blockchain and working on ideas in that space. I want to somehow make that part of my day job. Not sure how to get there but working on it. Now is time to update my resume.
+
 ## Friday, 2022-05-13 11:35:30
 
 It has been a busy couple weeks. Loving Durango but over worked. I didn't take time to code over that period.
