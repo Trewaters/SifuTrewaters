@@ -1,4 +1,12 @@
 # Sign In Daily 2022
+
+## Wednesday, 2022-09-07 07:05:19
+
+I swear there is always a good reason to delay or procrastinate my programming progress. Time to wipe away excuses with sweat equity. Yesterday I took some baby steps to get myself moving forward again. Now time to continue that. I have a bunch of web3 tech to get more familiar with. Let's Go!
+
+~ Success is not final, failure is not fatal: it is the courage to continue that counts. Believe In Yourself and Never Give In. (Never Give Up... "added by Tre'")
+-- by Winston Churchill
+
 ## Sunday, 2022-08-07 08:42:50
 
 Today is a good day! I have hope of working with a blockchain company. Wish me luck universe! 
