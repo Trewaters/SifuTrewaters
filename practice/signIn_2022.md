@@ -1,5 +1,19 @@
 # Sign In Daily 2022
 
+~""
+-- by
+
+## Monday, 2022-10-10 09:35:04
+
+I have been distracted with other life things. I won't bring those details here but it has kept me away from coding. I started making some tutorial for Rovi Ai NFTs. Find the playlist [here](https://youtube.com/playlist?list=PLS23WdYhq3vWKKGdPnWbvRdIkOt8vOYA4). It is a metaverse project so there are technicals there that I like but documenting the game isn't coding yet. I figure when they have an API I can play with that. 
+
+Currently it feels like I am falling into a common trap. Doing so many cools things that I don't focus on one for long enough to get anywhere. My current flag in the ground is Rovi Ai through August 2024. If I can't make a career out of Rovi Ai Metaverse gaming after 3 years, starting in 2021, then I feel it is time to move on. I want to work in Blockchain but I don't want to be a developer. I like code but I enjoy documention and quality assurance (testing, debuggin). Those jobs seemed to be harder to find because everyone needs them but they don't have a budget for someone to do that in their company. Bigger companies have it but smaller to mid-size software companies don't have open roles I can apply to. The issue is I want blockchain work which is a small sector. Then restrict it by wanting to do QA. That makes my total market share very small to begin with. I am haven't had luck finding open positions in this slice of tech. Rovi Ai seems like a way to get a foot in the door if someone notices my work and can afford to hire me. 
+
+Okay with that off my chest let's talk action. I am strecthing my fingers and coding with the DCL CLI. It seems like a good idea to level up my Scene deployment skills.
+
+~"It’s not the load that breaks you down. It’s the way you carry it."
+-- by Lena Horne
+
 ## Wednesday, 2022-09-07 07:05:19
 
 I swear there is always a good reason to delay or procrastinate my programming progress. Time to wipe away excuses with sweat equity. Yesterday I took some baby steps to get myself moving forward again. Now time to continue that. I have a bunch of web3 tech to get more familiar with. Let's Go!
