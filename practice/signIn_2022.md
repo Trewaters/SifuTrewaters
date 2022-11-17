@@ -3,6 +3,15 @@
 ~""
 -- by
 
+# Thursday, 2022-11-17 07:07:28
+
+Welcome to another day. Thanks for one more spin around the sun! Found a JS library for Discord bots, called [DiscordJS](https://discordjs.guide/#before-you-begin). Been playing around with that this week. They have excellent documentation. I was able to get the demo up and running quickly. Now moving to discord bot for myself. I always have so many ideas. It is hard to find the patience to slow down and finish it. 
+
+My process for picking a Passion Project is to ask myself "how excited am I about this?" If my answer is a 10! then I will start. But if the answer isn't a 10 then I take notes and move on. All ideas are great ideas but they also need to come at the Right Time, so I save them for later. Trying to take the best notes I can because when the Inspiration leaves it will dry up like an ancient river bed removing all traces of it. Like death. Matrix NFT RPG Discord Bot sounds good but it isn't quite a 10.
+
+~""
+-- by
+
 ## Monday, 2022-10-10 09:35:04
 
 I have been distracted with other life things. I won't bring those details here but it has kept me away from coding. I started making some tutorial for Rovi Ai NFTs. Find the playlist [here](https://youtube.com/playlist?list=PLS23WdYhq3vWKKGdPnWbvRdIkOt8vOYA4). It is a metaverse project so there are technicals there that I like but documenting the game isn't coding yet. I figure when they have an API I can play with that. 
