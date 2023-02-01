@@ -3,7 +3,6 @@
 ~""
 -- by
 
-<<<<<<< HEAD
 ## Wednesday, 2023-02-01 06:56:09
 
 Well I was hacked on December 15th and found out before Christmas. I can't remember what day exactly because I try to forget the theft ever happened. It was a psychic blow. I lost over 1 BTC and a two (2) parcel decentraland estate that was worth 8,000 MANA.
@@ -34,9 +33,6 @@ Back to studying!
 -- by Tre' Grisby
 
 ## Thursday, 2022-11-17 07:07:28
-=======
-# Thursday, 2022-11-17 07:07:28
->>>>>>> 03b042ca525837fa0cb09cd4ec295457e29cfb2d
 
 Welcome to another day. Thanks for one more spin around the sun! Found a JS library for Discord bots, called [DiscordJS](https://discordjs.guide/#before-you-begin). Been playing around with that this week. They have excellent documentation. I was able to get the demo up and running quickly. Now moving to discord bot for myself. I always have so many ideas. It is hard to find the patience to slow down and finish it. 
 
