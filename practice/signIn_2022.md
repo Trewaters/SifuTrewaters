@@ -3,6 +3,44 @@
 ~""
 -- by
 
+## Wednesday, 2023-02-01 06:56:09
+
+Well I was hacked on December 15th and found out before Christmas. I can't remember what day exactly because I try to forget the theft ever happened. It was a psychic blow. I lost over 1 BTC and a two (2) parcel decentraland estate that was worth 8,000 MANA.
+
+I feel that security is the way forward. My lastPass was hacked. They got into my OneDrive and found my seed phrases. With that they transferred all the tokens I had in my wallets then moved to my exchanges to remove funds from there too. It is and has been a nightmare. My credit is frozen. My credit cards have been replaced. I had to change all my passwords and to top it off I need to switch my password manager too.
+
+~"You are never too old to start over. Every day is a chance to make changes to create the life we want."
+-- by Karon Waddell
+
+## Friday, 2022-12-23 07:13:48
+
+Winter Solstice started on December 21st. This fall I took time to chill. There has been a ton of stress. That probably won't slow down but I want to make something of myself and I can't do that without work. Time to work. Winter solstice signals the shortest day of the year. From now on the days get longer. Since I am solar powered this will give me more energy to work as the days grow longer.
+
+As my degen tribe says, "LFG!!"
+
+~"Let's Fucking Go!"
+-- by web3 degen
+
+## Wednesday, 2022-11-30 07:03
+
+It is hard to keep my chin up most days. Moving to San Diego has been helpful. Seeing everyone so engaged has been inspiring. I don't think I could have found this in the Bay. Found my spirit.
+
+I am teaching myself Blender. This is so funny because I did 3D models at CSU, my college days back in 1996. It was really fun and took the sememster to finish. I didn't realize you could have a job in computers back then. I hadn't seen any black computer programmers. The funnier thing is I had a computer since 1985 and even programmed simple graphics, back in the day. Never realizing that could have made me a Billionaire with the right role models... That is why I am inspired to share my simple story with the world.
+
+Back to studying!
+
+~"I've come to far to quit now."
+-- by Tre' Grisby
+
+## Thursday, 2022-11-17 07:07:28
+
+Welcome to another day. Thanks for one more spin around the sun! Found a JS library for Discord bots, called [DiscordJS](https://discordjs.guide/#before-you-begin). Been playing around with that this week. They have excellent documentation. I was able to get the demo up and running quickly. Now moving to discord bot for myself. I always have so many ideas. It is hard to find the patience to slow down and finish it. 
+
+My process for picking a Passion Project is to ask myself "how excited am I about this?" If my answer is a 10! then I will start. But if the answer isn't a 10 then I take notes and move on. All ideas are great ideas but they also need to come at the Right Time, so I save them for later. Trying to take the best notes I can because when the Inspiration leaves it will dry up like an ancient river bed removing all traces of it. Like death. Matrix NFT RPG Discord Bot sounds good but it isn't quite a 10.
+
+~""
+-- by
+
 ## Monday, 2022-10-10 09:35:04
 
 I have been distracted with other life things. I won't bring those details here but it has kept me away from coding. I started making some tutorial for Rovi Ai NFTs. Find the playlist [here](https://youtube.com/playlist?list=PLS23WdYhq3vWKKGdPnWbvRdIkOt8vOYA4). It is a metaverse project so there are technicals there that I like but documenting the game isn't coding yet. I figure when they have an API I can play with that. 
