@@ -20,3 +20,11 @@ I am surprised that I don't have more words about this but stay tuned. My fire i
 
 ~"When you want to succeed as bad as you want to breathe, then you'll be successful."
 -- by Eric Thomas, The Secret to Success
+
+## Monday, 2023-05-01 20:54:32
+
+Life is beautiful! I have been coding during the day and learning from a senior developer. It is amazing! I want to take time and journal what advice was helpful and what advice wasn't. I don't have time now but it is coming soon. I say you should definitely code as much as possible. Always be learning
+
+~"Nothing is impossible. The word itself says 'I'm possible!'"
+-- by Audrey Hepburn
+
