@@ -21,10 +21,18 @@ I am surprised that I don't have more words about this but stay tuned. My fire i
 ~"When you want to succeed as bad as you want to breathe, then you'll be successful."
 -- by Eric Thomas, The Secret to Success
 
-## Monday, 2023-05-01 20:54:32
+## Monday, 2023-05-26 20:54:32
 
 Life is beautiful! I have been coding during the day and learning from a senior developer. It is amazing! I want to take time and journal what advice was helpful and what advice wasn't. I don't have time now but it is coming soon. I say you should definitely code as much as possible. Always be learning
 
 ~"Nothing is impossible. The word itself says 'I'm possible!'"
 -- by Audrey Hepburn
 
+# Saturday, 2023-06-17 17:48:47
+
+Things are great. I am still able to code all day at work. I love it. We have challenges but each day is a little easier than the last. My biggest obstacle at the moment is my team. Not everyone is trying as hard as I am. I worked with this team before and the same thing happened there. I set a goal for myself to be team development lead. I am not there yet but it felt like where I would like to be in the future.
+
+As part of this goal I decided to work with the team to help unblock them where I can.
+
+~"Be the change that you wish to see in the world."
+-- by Mahatma Gandhi
