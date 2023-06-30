@@ -36,3 +36,14 @@ As part of this goal I decided to work with the team to help unblock them where 
 
 ~"Be the change that you wish to see in the world."
 -- by Mahatma Gandhi
+
+# Friday, 2023-06-30 09:18:43
+
+Today I am over the moon about my job! I am so happy to be coding all day. Each morning we have a sit down and learn from our tech lead. I am also happy to be working with a team. Real engineering and coding is about working with a group and forming teams. This is definitely making me a better communicator and a better developer.
+
+A few months ago I was promoted at work from high level tech support into an associate software engineer with a global real estate company. If you have been reading my life then you know this has been a dream of mine since 2003, I just didn't know. It took me from 2003 until 2014 to realize I am a software developer and NOT I.T. (information technology). Everyone said I was IT but I think that is because they were not used to seeing a person of color as a software developer. 
+
+Unfortunately not knowing who I was in the beginning cost me valuable time and energy. If I had unerringly followed the software development path I went to school for, and not been side tracked, I would be a tech lead or more by now. But I had to make it through the side door. I networked, worked hard, and listened to advice from 2014 to 2019. The last bit of advice I got that I feel helped me make this move was to work for a "Software Company". I had been in government forever but that wasn't getting me where I wanted to be. Working in a software led to more opportunities in the field I am most passionate about. I didn't know a thing about real estate but I do know software.
+
+~""
+-- by
