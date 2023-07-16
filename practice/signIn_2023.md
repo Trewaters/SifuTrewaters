@@ -1,4 +1,4 @@
-# Sign In Daily 2023
+# Day, Date ...Sign In Daily 2023
 
 ~""
 -- by
@@ -45,5 +45,28 @@ A few months ago I was promoted at work from high level tech support into an ass
 
 Unfortunately not knowing who I was in the beginning cost me valuable time and energy. If I had unerringly followed the software development path I went to school for, and not been side tracked, I would be a tech lead or more by now. But I had to make it through the side door. I networked, worked hard, and listened to advice from 2014 to 2019. The last bit of advice I got that I feel helped me make this move was to work for a "Software Company". I had been in government forever but that wasn't getting me where I wanted to be. Working in a software led to more opportunities in the field I am most passionate about. I didn't know a thing about real estate but I do know software.
 
-~""
--- by
+~"You’re braver than you believe, stronger than you seem, and smarter than you think."
+-- by A.A. Milne
+
+# Sunday, 2023-07-16 08:04:52
+
+Life is wonderful. Here I have spent years talking about my path to becoming a software developer. Recently I have been changing my focus to keeping the job. P Diddy expressed the idea in [this video](https://youtu.be/OU8KksjGB8s). I spent so much time chasing the dream I wasn't focused on keeping the dream once I *caught it*. 
+
+Now that I am working as an engineer my focus is teamwork and visible progress. Each project, task, and feature I get it working, then get it working right, and finally making it work fast. Those 3 steps have improved my approach to tackling difficult code. I also end the day on a "high note". I avoid starting difficult task the last hour of work. Instead focusing on "wrapping up". Making sure the code pushes and I have noted all Jira tickets.
+
+My other focus as an engineer is to continue learning. I am currently being asked to know 3 new languages for my day job. I am focusing on React and NextJS but I still need to incorporate Red Hat Linux, Ruby, AWS, and Docker. Currently Pluralsight tutorials are in my daily routine.
+
+On the weekends I am also creating a portfolio Open Source Software (OSS) project called [Tanda DAO](https://github.com/Trewaters/Tanda-DAO). It is a cryptocurrency peer-to-peer lending platform. Currently it isn't coded yet but I have submitted it to the [ETH Denver hackathon](https://www.ethdenver.com/). I earned a [Camp Buidl POAP](https://app.poap.xyz/token/6513719) certificate for my work.
+
+Keep grinding! Keep learning! Keep coding!
+Share your work and help others! 
+
+I will not fear coding!
+Fear is the app-killer.
+Fear is the little-death that brings a total meltdown.
+I will face my code with a clear mind and a steady hand.
+Where the fear has gone there will be nothing.
+Only the clickity clack of my keyboard will remain.
+
+~"All dreams are within reach. All you have to do is keep moving towards them."
+-- by Viola Davis
