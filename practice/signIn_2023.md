@@ -70,3 +70,20 @@ Only the clickity clack of my keyboard will remain.
 
 ~"All dreams are within reach. All you have to do is keep moving towards them."
 -- by Viola Davis
+
+# Friday, 2023-07-28 06:31:03
+
+Work has been full of learning and growth opportunities. 
+
+The biggest challenge I have at the moment are my team members. I have members on my team that aren't carrying their weight. We are all new in this role, so I understand we are coming from various backgrounds. If you have been reading then you know I have been awaiting this moment of years. They on the other hand are not trying as hard.
+
+Developers told me that teamwork is important in coding. I am learning that first hand. I have never loved teams because most people don't care as much as I do. Teams are flawed in that credit goes to the leader and not always the one the deserves the credit for their work. Quaterback was always my example. Who are the other members of the "team"? Few people look at the entire team, just the leader(s).
+
+In an effort to "have a better attitude" I am doing my best to lift them up instead of complain about them. I want to succeed but I am sure that I need to do it with them. It doesn't seem productive for me to develop code Alone and not push it to the common repo. They on the other hand will work for a long time on a feature and never push their work for others to review. I try to show by example that it is helpful and necessary to update the code often. Seek help if you are stuck. I do.
+
+We all must work together as a team to get this code out the door. I hope my team can improve. I am doing my best to help them. I am also doing my best to not complain about them. I worked with them in my previous role and I know they are lazy. I work as hard as I can because I care about the products I produce. They get away with whatever they can when the boss isn't looking. Very frustrating.
+
+I am losing my point but the tl;dr is use ALL opportunities to grow. This is my chance learn how to be a tech lead. My goal now at 48 years old is to become a software engineering tech lead. This seems like a good opportunity to develop that skill.
+
+~"They all think it’s about more detail. But that’s not how memory works. We recall with our feelings. Anything real should be a mess."
+-- by Dr. Ana Stelline, Blade Runner 2049
