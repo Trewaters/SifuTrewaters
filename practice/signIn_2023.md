@@ -87,3 +87,20 @@ I am losing my point but the tl;dr is use ALL opportunities to grow. This is my 
 
 ~"They all think it’s about more detail. But that’s not how memory works. We recall with our feelings. Anything real should be a mess."
 -- by Dr. Ana Stelline, Blade Runner 2049
+
+# Saturday, 2023-08-12 08:49:06
+
+The past couple of weeks have been busy. I completed my first sprint as an engineer! That was exciting. Now we are working on our project as the rest of scrum team is formed. My team is starting to work harder as more managers and figures of authority start to interact with us in meetings. When no one was monitoring us closely we all worked slower. But that meant my already under performing team members were not putting any real effort into learning the code. I on the other hand keep hammering through obstacles one way or another. Our recent roadblock was connecting to a new external API. This took us about a month. None of the mentors nor my team had the time, or ability to get this data from the external API. Finally yesterday I cracked the code, literally. I was able to write code that would display API data on the website. The code looks baisc and follows worst practices but it runs. The rules are:
+
+1. Get it working.
+2. Get it working right.
+3. Get it working faster.
+
+I am on #1. Get it Working.
+
+Other milestones are having our official tech lead for the dev team. Last week we onboarded our scrum master. Things are coming along great. Next week I will demo my work for our first ceremony. I am in heaven! Everyday I am excited for what the day has to bring. My working rules are to not work on difficult problem as the day ends. Stopping hard issue one (1) hour before the day ends. It helps me avoid obsession on an issue that is wasting my brain cycles. If I have an issue that is blocking me I write it down on a list or peice of paper and keep it close so I can revisit that technical issue later when I have time to learn and study. It has helped me put things to the side. The secondary benefit is the ego boost I get from looking at those notes and tearing them up because I know how to do that now. For example loading json files into my NextJS project as mock data. That beat me up one day now I know how to do it.
+
+Growth is good thing. I strive for it everyday.
+
+~"Do the best you can until you know better. Then when you know better, do better."
+-- by Maya Angelou
