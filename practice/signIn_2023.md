@@ -104,3 +104,14 @@ Growth is good thing. I strive for it everyday.
 
 ~"Do the best you can until you know better. Then when you know better, do better."
 -- by Maya Angelou
+
+# Friday, 2023-09-01 13:32:08
+
+We are in Sprint 2 now. Technically we started with Sprint 0, so this feels like my 3rd sprint but it is only our 2nd official one. Plus we still don't have all the ceremonies started. Lots of us are learning as we go. Our Scrum master is experience but others in the group are also doing their jobs for the first time. I still enjoy waking up every day to work. With all my enthusiasm I am trying not to over work. The work they pay me to do is so inspiring that I could code from morning until night but I also have life going on around me. Work isn't the only thing I do. I am a father, husband and healer. There is so much I have to balance in order to satisfy all the demands of my life. I don't mind the responsibility but in order to succeed I must find balance. Each day isn't perfectly balanced, but I am trying.
+
+I share this journal to be a role model for others. I know there are few black people in the software development field. I'm usually one of the few black folks in the developer meetups I attend. It would have helped me in college or earlier to know that more people like myself were developers. I was doing graphic animations with my friends Garret and Jeff in 1992 at CSU computer lab. That was fun for me. We were animating a space ship and it would take all night to render. I also used computers a ton back in the 80's. I was the only kid I knew with a Commodore 128 in 1984.
+
+It took a long time to find a job as a software developer. It took many hours of working hard for no money. Early mornings of coding and late nights in San Francisco at tech meetups. Now I am still learning. The work I did before this job prepared me to get started but there is more to learn. Being a developer is more than the code. I am now having to learn how to scrum. That isn't something I practiced before this job. I heard about it but never dived deep into it... until now.
+
+~"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
+-- by Steve Jobs
