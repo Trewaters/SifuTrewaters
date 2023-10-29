@@ -104,3 +104,18 @@ Growth is good thing. I strive for it everyday.
 
 ~"Do the best you can until you know better. Then when you know better, do better."
 -- by Maya Angelou
+
+# Day, 2023-10-29 08:52:33
+
+Today it has been 6 months since I accepted a role as associate software engineer. Before starting this role, I thought I knew a lot already. Now that I am in the role it was apparent that what I knew was enough to get "Started"!? 
+
+Building enterprise software has been eye opening. I work on a dev team that reports to daily scrum meetings. Completing 2-week sprints and being asked to do something new each time. This is a true growth period, and I am Loving every minute of it. Now it has shifted my code study from part-time to daytime. I no longer stress myself about coding on the weekends, in the early-mornings, or after work. I still follow topics in tech, but I am getting 8 hours of code a day (if I want it) so I am full each day.
+
+My current goal is to document what I have learned. Put together some type of knowledge base (blog) that helps assert my expertise. I am learning a ton but it is great to have a place to point people that don't know me. So, they can see what I have been doing and what I have learned.
+
+I also need to create a portfolio piece to show my peers and prospective employers. 
+
+More about life later. Thanks for reading.
+
+~"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."
+-- by Steve Jobs
