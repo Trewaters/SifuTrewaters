@@ -3,15 +3,6 @@
 ~""
 -- by
 
-## Wednesday, 2023-02-01 06:56:09
-
-Well I was hacked on December 15th and found out before Christmas. I can't remember what day exactly because I try to forget the theft ever happened. It was a psychic blow. I lost over 1 BTC and a two (2) parcel decentraland estate that was worth 8,000 MANA.
-
-I feel that security is the way forward. My lastPass was hacked. They got into my OneDrive and found my seed phrases. With that they transferred all the tokens I had in my wallets then moved to my exchanges to remove funds from there too. It is and has been a nightmare. My credit is frozen. My credit cards have been replaced. I had to change all my passwords and to top it off I need to switch my password manager too.
-
-~"You are never too old to start over. Every day is a chance to make changes to create the life we want."
--- by Karon Waddell
-
 ## Friday, 2022-12-23 07:13:48
 
 Winter Solstice started on December 21st. This fall I took time to chill. There has been a ton of stress. That probably won't slow down but I want to make something of myself and I can't do that without work. Time to work. Winter solstice signals the shortest day of the year. From now on the days get longer. Since I am solar powered this will give me more energy to work as the days grow longer.
