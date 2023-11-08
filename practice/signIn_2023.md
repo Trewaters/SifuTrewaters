@@ -41,7 +41,7 @@ As part of this goal I decided to work with the team to help unblock them where 
 
 Today I am over the moon about my job! I am so happy to be coding all day. Each morning we have a sit down and learn from our tech lead. I am also happy to be working with a team. Real engineering and coding is about working with a group and forming teams. This is definitely making me a better communicator and a better developer.
 
-A few months ago I was promoted at work from high level tech support into an associate software engineer with a global real estate company. If you have been reading my life then you know this has been a dream of mine since 2003, I just didn't know. It took me from 2003 until 2014 to realize I am a software developer and NOT I.T. (information technology). Everyone said I was IT but I think that is because they were not used to seeing a person of color as a software developer. 
+A few months ago I was promoted at work from high level tech support into an associate software engineer with a global real estate company. If you have been reading my life then you know this has been a dream of mine since 2003, I just didn't know. It took me from 2003 until 2014 to realize I am a software developer and NOT I.T. (information technology). Everyone said I was IT but I think that is because they were not used to seeing a person of color as a software developer.
 
 Unfortunately not knowing who I was in the beginning cost me valuable time and energy. If I had unerringly followed the software development path I went to school for, and not been side tracked, I would be a tech lead or more by now. But I had to make it through the side door. I networked, worked hard, and listened to advice from 2014 to 2019. The last bit of advice I got that I feel helped me make this move was to work for a "Software Company". I had been in government forever but that wasn't getting me where I wanted to be. Working in a software led to more opportunities in the field I am most passionate about. I didn't know a thing about real estate but I do know software.
 
@@ -50,7 +50,7 @@ Unfortunately not knowing who I was in the beginning cost me valuable time and e
 
 # Sunday, 2023-07-16 08:04:52
 
-Life is wonderful. Here I have spent years talking about my path to becoming a software developer. Recently I have been changing my focus to keeping the job. P Diddy expressed the idea in [this video](https://youtu.be/OU8KksjGB8s). I spent so much time chasing the dream I wasn't focused on keeping the dream once I *caught it*. 
+Life is wonderful. Here I have spent years talking about my path to becoming a software developer. Recently I have been changing my focus to keeping the job. P Diddy expressed the idea in [this video](https://youtu.be/OU8KksjGB8s). I spent so much time chasing the dream I wasn't focused on keeping the dream once I _caught it_.
 
 Now that I am working as an engineer my focus is teamwork and visible progress. Each project, task, and feature I get it working, then get it working right, and finally making it work fast. Those 3 steps have improved my approach to tackling difficult code. I also end the day on a "high note". I avoid starting difficult task the last hour of work. Instead focusing on "wrapping up". Making sure the code pushes and I have noted all Jira tickets.
 
@@ -59,7 +59,7 @@ My other focus as an engineer is to continue learning. I am currently being aske
 On the weekends I am also creating a portfolio Open Source Software (OSS) project called [Tanda DAO](https://github.com/Trewaters/Tanda-DAO). It is a cryptocurrency peer-to-peer lending platform. Currently it isn't coded yet but I have submitted it to the [ETH Denver hackathon](https://www.ethdenver.com/). I earned a [Camp Buidl POAP](https://app.poap.xyz/token/6513719) certificate for my work.
 
 Keep grinding! Keep learning! Keep coding!
-Share your work and help others! 
+Share your work and help others!
 
 I will not fear coding!
 Fear is the app-killer.
@@ -73,7 +73,7 @@ Only the clickity clack of my keyboard will remain.
 
 # Friday, 2023-07-28 06:31:03
 
-Work has been full of learning and growth opportunities. 
+Work has been full of learning and growth opportunities.
 
 The biggest challenge I have at the moment are my team members. I have members on my team that aren't carrying their weight. We are all new in this role, so I understand we are coming from various backgrounds. If you have been reading then you know I have been awaiting this moment of years. They on the other hand are not trying as hard.
 
@@ -118,15 +118,52 @@ It took a long time to find a job as a software developer. It took many hours of
 
 # Day, 2023-10-29 08:52:33
 
-Today it has been 6 months since I accepted a role as associate software engineer. Before starting this role, I thought I knew a lot already. Now that I am in the role it was apparent that what I knew was enough to get "Started"!? 
+Today it has been 6 months since I accepted a role as associate software engineer. Before starting this role, I thought I knew a lot already. Now that I am in the role it was apparent that what I knew was enough to get "Started"!?
 
 Building enterprise software has been eye opening. I work on a dev team that reports to daily scrum meetings. Completing 2-week sprints and being asked to do something new each time. This is a true growth period, and I am Loving every minute of it. Now it has shifted my code study from part-time to daytime. I no longer stress myself about coding on the weekends, in the early-mornings, or after work. I still follow topics in tech, but I am getting 8 hours of code a day (if I want it) so I am full each day.
 
 My current goal is to document what I have learned. Put together some type of knowledge base (blog) that helps assert my expertise. I am learning a ton but it is great to have a place to point people that don't know me. So, they can see what I have been doing and what I have learned.
 
-I also need to create a portfolio piece to show my peers and prospective employers. 
+I also need to create a portfolio piece to show my peers and prospective employers.
 
 More about life later. Thanks for reading.
 
 ~"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it."
 -- by Steve Jobs
+
+# Monday, 2023-11-06 08:50:50
+
+Before listening to "Thank God it's Monday" by Eric Thomas the Hip Hop Preacher, I would dread Monday. The start of the week was so hard. Now I see it for the opportunity it is. We don't earn money on the weekends ( our days off). I get to earn money on Monday, all the way to Friday. I use the weekend to rest and recharge so I can do it again. Perspective is the key to getting everything.
+
+As an associate engineer I work in two week sprints. Today is the Monday before our sprint ends. It is time to wrap up my code. Have it reviewed by my peers and tested in QA. If the code needs test then now is when those test should be written, and re-written. Go get that cheddar. Earn your keep when it is time to work! Nothing comes without effort and sweat.
+
+~"You master Monday! You start winning the day! You start winning the week! Then the month! Then the year!"
+-- by Eric Thomas
+
+# Wednesday, 2023-11-08 11:52:56
+
+Oh boy. I wish I could rewind yesterday and do things differently.
+
+Yesterday was the end of our sprint. In general I like to have my code finished at least a day before the "Last Day Of Sprint" but that didn't happen this time.
+
+I am working in a team!
+
+The team wasn't finished so I didn't finish on time. I learned that as a team I need to be a shepherd and make sure everyone is ready to end the sprint. I wasn't wasting time or anything, but I was using my "extra time" to troubleshoot local environment issues. _BUT_ I should have asked everyone on my team if they needed help. Helping others would have helped me avoid being late merging my code into the repo.
+
+What happened was that I waited for others to push their code to the main branch. By the time everyone had pushed their code I only an hour to get my code in before end of sprint. An hour isn't enough, so I "rushed" it. By rushing I forgot to follow best practices.
+
+Anytime code changes in the main branch a dev should...
+
+1. Pull most current version of the main repo code.
+2. Merge the main branch into my "New Feature" code.
+3. Run, and/or build my updated "New Feature" code. Verify it still works as intended.
+4. Fix any issues that arise.
+5. Re-run code tests.
+6. Push update Feature.
+
+Oh, I FUBAR'd all that. I went from stop 1 to 6, skipping steps 2-5. I wasted tons of time fixing dumb (avoidable = dumb) mistakes. Finally I had to resolve conflicts by creating a new branch off the most updated main repo code. Then manually add all my changes from the git commit history changes. It was tedious but worked. I knew my code worked but by skipping all the verification steps I had corrupted my old branch.
+
+Lesson learned. We all make mistakes. They key to growth is not making the Same Mistake again!
+
+~"There’s been many times in the room where I’ve been the only woman, the only African American, and often lonely. Interestingly enough, what has been great about those moments is they’ve been empowering. I realize that I bring a unique perspective based on my own set of life experiences that no one else in the room has, and so it’s empowered me to find my voice."
+-- by Latasha Gillespie
