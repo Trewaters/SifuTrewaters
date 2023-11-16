@@ -167,3 +167,14 @@ Lesson learned. We all make mistakes. They key to growth is not making the Same 
 
 ~"There’s been many times in the room where I’ve been the only woman, the only African American, and often lonely. Interestingly enough, what has been great about those moments is they’ve been empowering. I realize that I bring a unique perspective based on my own set of life experiences that no one else in the room has, and so it’s empowered me to find my voice."
 -- by Latasha Gillespie
+
+# Thursday, 2023-11-16 10:20:03
+
+I love working with code. This time as a junior dev has been learning to swim in the Agile Development world. My company takes it serious and I learning what was always theoretical.
+
+For example we deep dived into Story Point generation. I have seen analogies for Story Pointing and they never quite resonated but as someone that never had to story something, did the analogy matter. Answer is NO. Analogies are a way to start understanding what the numbers mean relative to each other but it doesn't explain anything. It is means more to me to have actual understanding of the elements involved in calculating a Story Point score. I can't bring analogies of cats vs mouse or shrimp vs shark. I need to say hey this needs a test let's start at a Point of 3.
+
+I wish I could write down all the cool stuff I am experiencing. This has been a great 6 months!
+
+~"Tell me and I forget, teach me and I may remember, involve me and I learn."
+-- by Benjamin Franklin
