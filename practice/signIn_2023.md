@@ -181,7 +181,7 @@ I wish I could write down all the cool stuff I am experiencing. This has been a 
 
 # Friday, 2023-12-29 07:52:05 ...Sign In Daily 2023
 
-Creating a learning path. Feeling like I am stagnating a little. The work isn't enough to teach me since we are on tighter deadlines.
+Creating a learning path. Feel like I am stagnating a little. The work isn't enough to teach me since we are on tighter deadlines.
 
 ~"[Work while you wait!](https://youtu.be/Hke-XzpXX3o?si=RRn45SDlunaa3V9G)"
 -- by ET (Eric Thomas) the hip hop preacher
