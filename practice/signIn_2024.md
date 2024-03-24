@@ -20,3 +20,20 @@ I value myself more than they do.
 
 ~"Why should we worry about what others think of us, do we have more confidence in their opinions than we do our own?"
 -- by Brigham Young
+
+# Sunday, 2024-03-24 10:43:17
+
+Where to get started finding a new job, or finding value in my current role?
+
+I decided after my last work review which was great but not enough to get me a promotion. I got a raise of 1.8%, which is ten times (10x) more than any raise I've gotten from the company in the past five years!
+
+My personal motto is up or out every 2 years. Up can mean what you want it to mean. Sometimes it means a title, other times it means monetary value. I decide in each role what "UP" means to me. But it should always feel like a Level Up at the company.
+
+Looking for a job while I have a job is difficult. I work best under pressure. It's hard to feel the pressure at a job that "pays my bills". Software development is my life goal, so it is important for me to show growth.
+
+Today I downloaded the nodejs.org website OSS code, [found here](https://github.com/nodejs/nodejs.org). At work we use NodeJS and NextJS. This is my way to see how professionals would use NextJS and learn from their patterns.
+
+I wrote a blog about looking for tech jobs. This checks off contributing to opensource, fifth tip on my list. Read my tips [here](https://dev.to/trewaters/tech-job-hunting-2d9b).
+
+~"When you’ve got something to prove, there’s nothing greater than a challenge."
+-- by Terry Bradshaw
