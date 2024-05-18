@@ -37,3 +37,51 @@ I wrote a blog about looking for tech jobs. This checks off contributing to open
 
 ~"When you’ve got something to prove, there’s nothing greater than a challenge."
 -- by Terry Bradshaw
+
+# Saturday, 2024-05-18 13:40:33
+
+Time flies when you're having fun. Can't believe it has been a year already since I was promoted to Associate Engineer at Anywhere Real Estate. This is something I've wanted for decades and it finally came to fruition. My path wasn't the one that most would take but it is the one that unfolded before me after getting my degree from College America in 2003.
+
+Quick history. I studied computer science in college and didn't realize there were so many paths. Basically each class I took from level 101 up could have been my job title in the future. Wish I understood that earlier. After graduating I tried to make my own business by creating a city website portal of links (before yahoo did it) and sell that to local area businesses. As a sole-proprietor I didn't realize it required more than coding. I needed marketing, accounting, lead generation, etc. After 3 or 4 months of this not working out, as a single father of a toddler I needed to make money. Found a job with the Fort Collins Water District and quickly rose in prominence, without a tech title, because I could handle all the tech upgrades they purchased from Sensus meters to modernize their water metering system. This was where I learned that I needed to specialize if I was going to be happy.
+
+Now I am specialized in JavaScript and NodeJS and love it! May of 2023 I got promoted from top-level tech support of a Saas product to a software engineer in the real estate sector. The past year I have been coding and working with a team of developers to bring new products to market and maintain legacy apps used in the field. I have to say I like the greenfield products over the old ones but they legacy items bring in money and value to the company. So they pay the bills and I am grateful for that.
+
+With one year under my belt I am sharing some answers to questions I would ask myself if I were still trying to break into a software developer role.
+
+1. How do I like my job and the work after one year?
+2. What have I learned if anything?
+3. What is hard about the job?
+4. What have I encountered that was unexpected this past year?
+5. What would I change about my job?
+6. What about me has changed this year?
+
+## "1"
+
+After a year of coding 40 hours a week I still love coding. It helps that I am able to work with programming languages I know and love like JS. It has been awesome having coding mentors and tech leads. Watching them work I learn so much. I want more money for what I do, because it feels like I am paid below average for someone with the same responsibilities. I could use less meeting in my week.
+
+## "2"
+
+I have learned that balancing meetings and work is important.
+
+## "3"
+
+The hardest part of my job is asking for what I need. I find it difficult to defend myself and ask the "hard questions". It is hard to advocate for myself.
+
+## "4"
+
+I didn't expect to be critiqued so heavily by my team leads. My coworkers admire me but for some reason my team leads seem to be pretty hard about their critiques of my work. It wouldn't be so bad if I felt everyone got the same level of critique but it doesn't appear that way to me. I seem to be singled out as the one to be asked to rewrite my "working" code more than others. It is something I am working to improve on where possible.
+
+I am also shocked at how many meetings are part of scrum. I went from rarely having meetings to having daily meetings and stand ups.
+
+## "5"
+
+I would have less meetings. It would be great to only schedule meetings when they are needed and not only because it is part of the scrum ceremony schedule.
+
+I would make sure there was one meeting a week to share dev team learnings and challenges.
+
+## "6"
+
+I code less in my free time on my projects. I used to be driven to code more when I was done with my non-coding day jobs. Now I try to keep more of a work life balance. As much as I would like to code more in the evenings and on the weekends. I spend time with family and friends instead. I love coding but don't want to burn out. I think it is more likely for me to burn out if I don't just "Take a Break" on the weekends.
+
+~"Knowledge is like money: to be of value it must circulate, and in circulating it can increase in quantity and, hopefully, in value."
+-- by Louis L'Amour
