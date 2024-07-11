@@ -85,3 +85,19 @@ I code less in my free time on my projects. I used to be driven to code more whe
 
 ~"Knowledge is like money: to be of value it must circulate, and in circulating it can increase in quantity and, hopefully, in value."
 -- by Louis L'Amour
+
+# Thursday, 2024-07-11 08:25:48
+
+I am a few weeks behind on this post but I have to make it. On June 24, 2023 I was laughed at (in text) for asking a question in our All Hands company wide meeting. I asked about using Ai as software application documentation aid. The troll said "shouldn't your code be the documentation for you? It was mind blowing ignorance. I feel like they are someone that puts others down so they feel better about themselves. I felt they were a troll because they didn't ask any questions about my comment. They leaped to an assumption just for the effect. It hurt. I was mad. But as a Reiki Master and Yoga instructor I know that active anger only hurts me. I took time to settle down, control my breathing and relax. I used the anger to push me in the right direction and be constructive (not self-destructive).
+
+I came up with these notes that I will later flesh-out into an article.
+
+- Document code with Ai. There are multiple types of documentation. I have notes on this from YEARS AGO. In my notes I talk about many types of software application documentation but at a top-level there is Process and Product documentation.
+- Documentation can help record "proprietary knowledge". In this case I mean the phrase as a reference to the on-the-job knowledge that ONE person has. Everyone ask Alex (senior employee) "How do I...?". I have seen it in all my roles with every company. Few folks take time to write down what they know, and fewer than that will udpate it.
+- Ai Documentation could allow employees to fix issues by searching with prompts.
+- Ai Docs can retain vital information that is normally loss with attrition, through retirement or someone changing jobs.
+
+I will stop there but an article is going to come out of this. That troll in my team inspired me to "do something".
+
+~"If you can't do what you long to do, go do something else. Go walk the dog, go pick up every bit of trash on the street outside your home, go walk the dog again, go bake a peach cobbler, go paint some pebbles with brightly colored nail polish and put them in a pile. You might think it's procrastiantion, but - with the right intention - it isn't; it's motion. And any motion whatsoever beats inertia, because inspiration will always be drawn to motion."
+-- by Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear
