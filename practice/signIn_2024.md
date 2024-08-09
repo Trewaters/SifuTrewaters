@@ -101,3 +101,12 @@ I will stop there but an article is going to come out of this. That troll in my 
 
 ~"If you can't do what you long to do, go do something else. Go walk the dog, go pick up every bit of trash on the street outside your home, go walk the dog again, go bake a peach cobbler, go paint some pebbles with brightly colored nail polish and put them in a pile. You might think it's procrastiantion, but - with the right intention - it isn't; it's motion. And any motion whatsoever beats inertia, because inspiration will always be drawn to motion."
 -- by Elizabeth Gilbert, Big Magic: Creative Living Beyond Fear
+
+# Friday, 2024-08-09 08:06:32
+
+My current Tech Lead, I will call Burger King or BK for short, is horrible. BK is smart and can write good code, but BK has poor people skills. BK is a micro-manager and nothing can be added to the code base unless BK thought of it first. BK will often write the code for developers to submit, and BK approves it. BK takes negative feedback as personal attacks. I feel that code review and negative feedback to code is part of the developing process. Feedback is a chance to improve or address issues that I might not have seen. If I don't agree with the feedback my choice should come down to which item makes the most sense based on facts not opinion. I love coding because it is about facts and binary decisions, not emotion. I worked in IT support for decades and that job was more about managing emotions than fixing user's tech problems. IT Crowd had the right answer for most situations, "Have you tried turning it off and on again?". I don't know why that works for so many issues but IT DOES, no lie!
+
+Thanks for listening to me vent. I will add more as time goes on.
+
+~""
+-- by
