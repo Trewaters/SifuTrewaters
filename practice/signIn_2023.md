@@ -197,3 +197,10 @@ How to keep coding and have fun while doing it.
 
 ~""
 -- by
+
+# Friday, 2023-12-29 07:52:05 ...Sign In Daily 2023
+
+Creating a learning path. Feel like I am stagnating a little. The work isn't enough to teach me since we are on tighter deadlines.
+
+~"[Work while you wait!](https://youtu.be/Hke-XzpXX3o?si=RRn45SDlunaa3V9G)"
+-- by ET (Eric Thomas) the hip hop preacher
