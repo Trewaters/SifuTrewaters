@@ -178,3 +178,22 @@ I wish I could write down all the cool stuff I am experiencing. This has been a 
 
 ~"Tell me and I forget, teach me and I may remember, involve me and I learn."
 -- by Benjamin Franklin
+
+# 11/19/2023
+
+How to keep coding and have fun while doing it. 
+
+**Join an opensource project.**
+
+- Create a github account. 
+- Find a project you like. 
+- Read the issues, opened and closed.
+- Review the code and find places you can make a difference. 
+- Submit a pull request.
+
+2. Attend a hackathon.
+3. Attend tech meetups. Not all are the same. Think about what you want from the meetup. Learn, Networking, practice speaking, etc.
+4. 
+
+~""
+-- by
