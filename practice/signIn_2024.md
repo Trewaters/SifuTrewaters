@@ -86,6 +86,13 @@ I code less in my free time on my projects. I used to be driven to code more whe
 ~"Knowledge is like money: to be of value it must circulate, and in circulating it can increase in quantity and, hopefully, in value."
 -- by Louis L'Amour
 
+# Monday, 2024-06-27
+
+Testing isn't only a number. Test show that a feature oruionality is broken. I am frustrated bing asked to fix the same thing even if I didn't break it.
+
+~"Do one thing every day that scares you."
+-- by Eleanor Roosevelt
+
 # Thursday, 2024-07-11 08:25:48
 
 I am a few weeks behind on this post but I have to make it. On June 24, 2023 I was laughed at (in text) for asking a question in our All Hands company wide meeting. I asked about using Ai as software application documentation aid. The troll said "shouldn't your code be the documentation for you? It was mind blowing ignorance. I feel like they are someone that puts others down so they feel better about themselves. I felt they were a troll because they didn't ask any questions about my comment. They leaped to an assumption just for the effect. It hurt. I was mad. But as a Reiki Master and Yoga instructor I know that active anger only hurts me. I took time to settle down, control my breathing and relax. I used the anger to push me in the right direction and be constructive (not self-destructive).
